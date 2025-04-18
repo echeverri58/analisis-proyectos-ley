@@ -1,1 +1,983 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('d 1L="fY";d 5t=`TúfX**R 2yán 2x**,1t fW fV fU fT en el aná1b crí7E I 8i 8hí8g 57.fS 1t fR fQ de D 35ón 4fí4Z de 4e,3t 8c 84(56 D 1K 99 de 8b),1W 83 5a de 4h 85 59 2r 4e,y D fP 7t.fO fN es fM el**4Y de 7Y**(o 2P 7X)fL en el 1y fK,**2cí1v 2r 2cí1v**.fJ fI,fH y fG fF**fEón,fDón,cláfC o"fB"**1o fA 1t 4d o fz 1x 1W 88 y fy I 8i 8hí8g 57,fx fw fvón a:1. **fu I ft/58 fs:**87 1o fr en fq I fp 7s,el foés púfn o 1W 4h fm fl en D 35ón(ej.8f a 1t 8a fk,4h de 3t fjéfi,8f a D 7lón).2. **51ón de fh fg:**ffáfe 1o fd,fc o fb D faón,f9ón o f8 a f7 de 8d f6 8e y O 8e(f5,f4,89,f3,4X.)de f2 f1 a f0 eZ en D 35ón 4fí4Z(ej.eY I eX eW 1W 8d)y 8c eVíeU 56 D 1K 99 de 8b.3. **eT 7T eS:**eR 1o eQ eP el eO 8a,D 89,1W eN,o 1o 86 88 7Z eM(ej.2cí1v 79,80,81 35ón)o 5a 59.4. **eLón de 58 eK:**87 1o 86 4h 85 84 o 1W 2MáeJ eI en 83 5a 59 2r 4e(ej.82 7u de 58 eH y 4fí7P,82 de eG eFé,7v eE de D eD,4X.).5. **eCüeB y eA:**ez ey ex,ewéev,eu o 1o et 32 er eq a ep o eo,de em 1o ek ei ehías 7Z,eg ef ee o ed ec.**eb de ea(34):**e9 2f 6z e8 en**1y 34**6W 6V 53 7q 1w 1o 4r fáe7 de e6 y e5 en 1t 4o 19.e4 e3 34(#,##,###),e2(-),e1(**)y e0(>)dZún el 41 dY.#3G de R 2yán 2x##7V dX I 2J de 1K[7WídW 32 sí7S 7F y dV I dU 5m I 4Y de 7Y y dT dS dR I dQ 7X 57.]##dPón de 7U 1Xí1v 2r 1Xí1v 7Wí1r dO 32 7O 7o de 1W 2cí36 dN 1r 7R 2H,dM I aná1b 4M de 7p dL.###dK 7V de 1Xí36 1x 7U|1Xí1v|7J(s)de 4g 7I     |7C de 7B|7x 7Gón dJ I 4g||----------|--------------------------------------|--------------------|--------------------------------------||[Nú7K]|[7H:51ón,7T]    |[7A/7z/7y] |[Sí7S 5y dI I 3F]  ||...   |...                 |...        |...                 |*(dH dG 2cí36 1x 2H.4W O 7N 2H dF 7Q,7L dE 56"3Z 1r 7R 2H 7Q dD 1W dC de R 2yán 2x en el aná1b dB"o 6B en D dAón.)*<br>###3Há1b dz de 1Xí36 dyá7P*(dx 1r 3pán en 53 7Món 1W 2cí36 dw en D 7O 4Q.4W O 7N,dv 53 7Món o 7L"3Z 1r 7k 2cí36 1x 2H 1o du aná1b 4M.")*---####**1Xí1v[Nú7K I 1Xí1v]*****3L dt ds:**  >[dr 7jíel dq dp I 1y I 2cí1v 1o 6U el 4d,dn 32 dm 34(>).]***7J(s)de 4g 7I:**  *[dl de dk de 4d:7H:51ón]  *...***7Gón y dj I 4g("R di"):**  [dhón 7F de 2r dgédf 1y es ddá7E,có7r dc 1x D db da(35ón,1K,7w),y cuál es el d9 d8.]***d7 d6:**  *[7D 1]  *[7D 2]  *...***7C de 7B:****[7A|7z|7y]**  [7x d5ón.]***d4 d3 d2:**  *[1Xí1v X de D 35ón 4fí4Z de 4e]  *[1Xí1v Y de D 1K Z]  *[7w/7v 7u,1Xí1v W]  *[d1 7t]  *...***d0ón de cZ/cYón:**  [cX cW 1w 7m el 1y o 32 cVón 7s 1w cU el 4d,cT có7r cS el 3F.]---*(...cR D 7q cQ 4Q 1w 7p 2cí1v cP 1x 2H...)*---##cOón y cN cMé7n[cLón cK I 4Y,7o de cJ cI y cH cGé7n(cF,7m,7lón,4X.).4W O 1r 7k 2H,cE 7jí.]`;d 2N=2j.2G(\'cD\');d k=2j.2G(\'k\');d 3N=2j.2G(\'3N\');d 3c=2j.2G(\'3c\');d 1Y=2j.2G(\'29\');d 2i=2j.2G(\'2i\');d 1P=2j.2G(\'1P\');H 1O=3b;d 1e={3j:[30,42,71],cC:[cB,cA,55],cz:[45,52,54],cy:[cx,cw,7i],cv:[4V,4V,4V],2n:[44,62,80],5L:[ct,cs,cq],3T:[cp,7i,co]};1M 1g(2v,7h=\'cn\'){1Y.cm=\'29-ck cj\';1Y.z.1f(`29-${7h}`);1Y.ci=`<p>${2v}</p>`; //ch cg en pácf 1Y.1l.1k=\'3I\'}3M 1M 5A(23){1d E ce((74,4R)=>{d 49=E 73();49.cd=3M(7g)=>{2h{d 7f=E cc(7g.cb.ca);j(!1n.1V||!1n.1V.4c||!1n.1V.4c.4U){L.2Z("1V 4U O c9 o 1V O 6o 2L.");j(1n.1V&&1n.1V.4c){1n.1V.4c.4U=`70:}C{U E r("1N 2Iía 1V O 2Má 6p. 2Sú2l de 3p 1W c8 en 2f c7.")}}d 7e=1n.1V.c6({17:7f});d 2w=2k 7e.c5;H 2a=\'\';6c(H i=1;i<=2w.c4;i++){d 4S=2k 2w.c3(i);d K=2k 4S.c2();H 4a=-1;H 3v=3b;H 3u=\'\';d 7d=K.3w.c1((a,b)=>{j(a.2b[5]!==b.2b[5]){1d b.2b[5]-a.2b[5]}1d a.2b[4]-b.2b[4]});7d.2B(1U=>{d 4T=1U.2b[5];d 7c=K.3w.4G((4b,1U)=>4b+1U.c0,0)/K.3w.B||10;j(4a!==-1&&(4a-4T)>(7c*1.5)){3u+=\'\\n\'}d 7a=1U.2b[4];j(3v!==3b){d 78=3v.2b[4];d 77=3v.7b;d 76=K.3w.4G((4b,1U)=>4b+1U.7b/1U.75.B,0)/K.3w.B||1;j(7a>(78+77+76*0.5)){3u+=\' \'}}3u+=1U.75;4a=4T;3v=1U});2a+=3u+\'\\n\\n\';4S.bZ()}2a=2a.2R(/[ \\t]+/g,\' \');2a=2a.2R(/\\n\\s*\\n/g,\'\\n\\n\');2a=2a.1p();74(2a)}2d(u){L.u("r al 72 19 1x 2w.3a:",u);4R(`r al bY el 3f 19:${u.2v||u}.2Sú2l de 1o 4r 1t 19 de 1y 5x y 3t 2Iías 2w.3a 2Mén bX.`)}};49.bW=(u)=>{L.u("r de 73:",u);4R("r al 72 el 3f bV.")};49.bU(23)})}3M 1M 5u(6Z,1R){j(!1L||1L==="2K"){U E r("r de bTón: 1N 3E M 3D O bS bR 6u en 1Z.3a. ¡bQ bP en bO!")}d 6G=\'bN-1.5-bM-bL\';d 6N=`70:d 4O=`${6Z}---**3L I 2J de 1K(1w 3Há1b):**---bK 6Y 6X---${1R}---bJ 6Y 6X---**bI bH:**bG el"3L I 2J de 1K"4Q 6W 6V 6T 3t"bF 1w R 2yán 2x"y 6U el 4o bE en el 41 34 bD.2Sú2l de 3p 6T 3t bC bB en el 41 de 4u 34.`;d 6S=E bA();d 4P=6S.bz(4O);d 6R=by;d 6Q=6R*4;j(4P.B>6Q){d 6O=(1O.bx/(6P*6P)).bw(2);U E r(`R 4q 6I(bv+1y I 2P)es 6H bu(${4P.B}bt).R bsño I 19 bq es~${6O}bp.bo 1x 1t 2P más bn o bm bl en 1t bk.`)}d 6M={6J:[{33:[{G:4O}]}],bj:{bi:0.1,bh:bg},bf:[{48:"bd",47:"46"},{48:"bc",47:"46"},{48:"bb",47:"46"},{48:"ba",47:"46"},]};2h{d 1A=2k 6q(6N,{b9:\'b8\',b7:{\'b6-b5\':\'b4/4N\'},27:6L.6K(6M),});j(!1A.b3){H 3s;2h{3s=2k 1A.4N()}2d(e){}L.u("r M 1A 27:",3s);H 28=3s?.u?.2v||6L.6K(3s)||1A.b2;j(1A.29===b1){j(28.3r().1S("b0 6w 2g 6v"))U E r("r de M: 1N 5D aZ O es vá40. aY 1L.");j(28.3r().1S("aX 5f at \'6J[0].33[0].G.B\'")||28.3r().1S("aW 6I aV 6b aU 6D aT"))U E r(`r de M:R 1y I 2P es 6H aS 1w el 6C ${6G}.`);U E r(`r de 6E aRá40 a D M(${1A.29}):${28}`)}j(1A.29===aQ||28.3r().1S("6t")||28.3r().1S("2l 6s"))U E r("r de M: aP aO 2f aN o 6r lí4L.");j(1A.29>=3x)U E r(`r I aM M(${1A.29}):${28}.R aL aK O aJ aI.`);U E r(`r 6y de D M(${1A.29}):${28}`)}d 17=2k 1A.4N();L.3z("M aH aG:",17);j(17.1I&&17.1I.B>0&&17.1I[0].43?.33?.[0]?.G){1d 17.1I[0].43.33[0].G}C j(17.6F?.3q){d 3q=17.6F.3q;L.2Z(`aF aE 2r D M.aDón:${3q}`);U E r(`1N 6E aC aB 2r D M 2r aA de 5C(${3q}).`)}C j(17.1I&&17.1I.B>0&&17.1I[0].1T&&17.1I[0].1T!==\'az\'){d 1T=17.1I[0].1T;L.2Z(`M ay ax 5Q aw:${1T}.av au be ar.`);H 1c=`R aná1b O 4s aq ap(${1T}).`;j(1T===\'ao\')1c+=" R 4p am el lí4L máak de 6D.";j(1T===\'aj\')1c+=" R 6C aió 4q 6B a ah ag de af.";j(17.1I[0].43?.33?.[0]?.G){L.2Z("ae 1y 6A ad a 1T:",1T);1g(`${1c}ac 4p 6A.`,\'5e\');1d 17.1I[0].43.33[0].G}C{U E r(1c+" 3Z 1r abó 1y de 4u.")}}C{L.2Z("aa a9 o 6xía de D M:",17);U E r("1N M a8ó 32 6z vá40 a7 en 1t 41 6y o 6xío.")}}2d(u){L.u("r 4M al a6 a D M de a5:",u);H 1c=u.2v||\'5ló 1t 3F 5k 5j el aná1b.\';j(1c.1S("M 6w 2g 6v"))1c="r de 5Eón: 1N 3E M 3D 6u O es vá40.";j(1c.1S("6t")||1c.1S("2l 6s"))1c="r de M: a3 a2 o 6r lí4L a1.";j(1c.1S("a0")||1c.1S("9Z 9Y 6q"))1c="r de 9X: 3Z 1r 4s 9W 1x D M de 3E.";U E r(1c)}}1M 5r(69,6k="3G R 2yán 2x"){d{1a}=1n.1m;j(!1a){L.u("1a 9V 2g 4k.");U E r("1N 2Iía 1a O 2Má 6p. 2Sú2l de 3p el 1Z de 1m.")}H 2s;2h{2s=E 1a();j(39 2s.1J!==\'1M\'){U E r(\'1J 2g 5B\')}}2d(e){L.u("1m-2e 38 2g 4k.",e);U E r("R 38 1m-2e O 2Má 6o. 2Sú2l de 3p el 1Z I 38.")}d q=E 1a({9U:\'p\',9T:\'9S\',9R:\'a4\'});d Q=20;d 4K=q.3g.6n.9Q();d 3m=q.3g.6n.9P();d 1C=3m-2*Q;d 4J=4K-Q+5;d 6d=4K-Q-5;d 4C="9O";d 2q="9N";d 2V="9M";d 61=22;d 64=18;d 66=15;d 68=13;d 2p=11;d 3Q=9;d 6l=8;d 60=12;d 63=10;d 65=8;d 67=7;d 2E=6;d 5Z=6;d 5V=6;d 5S=8;d 3V=5;d 4F=8;d 3S=2;d 2W=3;d 1D=1.4;H 4I=1;H y=Q;d 3O=(6j)=>{d 6i=q.9L();d 6h=q.6m().9K;d 6g=q.6m().1u;d 6f=q.9J();q.3l(6l);q.4D(4C,2q);q.3i(5z);q.G(6k,3m/2,4J,{1z:\'9I\'});q.G(`Pá9H ${6j}`,3m-Q,4J,{1z:\'4y\'});q.3l(6i);q.4D(6h,6g);q.3i(6f)};d 2X=(6e)=>{j(y+6e>6d){3O(4I);q.9G();4I++;y=Q;1d 4t}1d 2t};d 4z=(2T)=>{H 1G=[];H 27=[];H 3n=2t;6c(d 14 6b 2T){d 3o=14.3X(\'|\').3W(31=>31.1p()).4H((2Q,i,3Y)=>i>0&&i<3Y.B-1);j(3o.B>0){j(3o.9F(31=>/^\\s*:?-+:?\\s*$/.9E(31))){3n=4t}C j(!3n){1G.25(3o)}C{27.25(3o)}}}j(!3n&&1G.B>0){27=1G.9D(1);1G=[1G[0]]}C j(!3n&&1G.B===0){27=2T.3W(14=>14.3X(\'|\').3W(31=>31.1p()).4H((2Q,i,3Y)=>i>0&&i<3Y.B-1)).4H(6a=>6a.B>0);1G=[]}1d{1G,27}};d 2T=69.3X(\'\\n\');H J=[];H w=\'2m\';d 24=()=>{j(J.B===0){j(y>Q+2E*0.5){2X(2E);y+=2E}w=\'2m\';1d}H x=2p;H 1u=2q;H 1q=2E;H 1z=\'5M\';H 16=0;H 26=[];H 2D=0;j(w===\'2A\'){d 1H=J[0];H 2F=1H;j(1H.1s(\'#### \')){x=68;1u=2V;1q=67;2F=1H.1Q(5).1p()}C j(1H.1s(\'### \')){x=66;1u=2V;1q=65;2F=1H.1Q(4).1p()}C j(1H.1s(\'## \')){x=64;1u=2V;1q=63;2F=1H.1Q(3).1p()}C j(1H.1s(\'# \')){x=61;1u=2V;1q=60;2F=1H.1Q(2).1p()}C{w=\'2m\';x=2p;1u=2q;1q=2E;2F=1H}26=q.2Y(2F,1C-16);2D=26.B*(q.1F(\'1E\',{x:x}).h*1D)}C j(w===\'2U\'){x=2p;1u=2q;1q=5Z;16=4F;2D=J.4G((5Y,2C)=>{d 3U=2C.1p().1Q(1).1p();d 5X=q.2Y(3U,1C-16).B;1d 5Y+5X*(q.1F(\'1E\',{x:x}).h*1D)},0)}C j(w===\'3h\'){d 5W=J.4E(\'\\n\');d 5U=5W.3X(\'\\n\').3W(14=>14.1s(\'> \')?14.1Q(2):14).4E(\'\\n\');x=2p;1u=2q;1q=5V;16=4F+3S+2W;26=q.2Y(5U,1C-16);d 5T=q.1F(\'1E\',{x:x}).h*1D;2D=26.B*5T+2W*2}C j(w===\'2z\'){x=3Q;1u=2q;1q=5S;d 3R=4z(J);2D=1}C j(w===\'4w\'){1q=3V;2X(3V*2+1);y+=3V;q.14(Q,y,3m-Q,y);y+=1;J=[];w=\'2m\';y+=1q;1d}C{x=2p;1u=2q;1q=2E;d 5R=J.4E(\'\\n\');26=q.2Y(5R,1C-16);2D=26.B*(q.1F(\'1E\',{x:x}).h*1D)}q.3l(x);q.4D(4C,1u);q.3i(1e.2n[0],1e.2n[1],1e.2n[2]);2X(2D+1q);j(w===\'2U\'){J.2B(2C=>{j(!2C.1p().4x(/^[-*+] /)){L.2Z("9C 9B 2U 3I 9A\'t 9z 5Q 9y:",2C);d 4B=q.2Y(2C,1C-16);d 5P=4B.B*(q.1F(\'1E\',{x:x}).h*1D);2X(5P);4B.2B(14=>{d 2o=q.1F(\'1E\',{x:x}).h*1D;q.G(14,Q+16,y,{1z:1z,3P:1C-16});y+=2o});1d}d 3U=2C.1p().1Q(1).1p();d 4A=q.2Y(3U,1C-16);d 5O=4A.B*(q.1F(\'1E\',{x:x}).h*1D);2X(5O);d 5N=y+q.1F(\'1E\',{x:2p}).h*0.8;q.3l(2p);q.G("•",Q+16-4,5N,{1z:\'4y\'});q.3l(x);4A.2B((14)=>{d 2o=q.1F(\'1E\',{x:x}).h*1D;q.G(14,Q+16,y,{1z:1z,3P:1C-16});y+=2o})})}C j(w===\'3h\'){d 3k=y;y+=2W;26.2B((14)=>{d 2o=q.1F(\'1E\',{x:x}).h*1D;q.G(14,Q+16,y,{1z:1z,3P:1C-16});y+=2o});y+=2W;j(y>3k){q.9x(1e.3T[0],1e.3T[1],1e.3T[2]);q.9w(Q+16-3S-2W,3k,3S,y-3k,\'F\')}}C j(w===\'2z\'){d 3R=4z(J);q.1J({1G:3R.1G,27:3R.27,3k:y,Q:{5M:Q,4y:Q},9v:\'9u\',9t:{9s:1e.3j,5K:1e.5L,1u:2V,x:3Q},9r:{5K:1e.2n,x:3Q},9q:{9p:3,9o:\'9n\',},9m:{},9l:1M(17){3O(q.3g.4v())}});y=q.1J.5J.5I}C{j(w===\'2A\'){q.3i(1e.3j[0],1e.3j[1],1e.3j[2])}26.2B((14)=>{d 2o=q.1F(\'1E\',{x:x}).h*1D;q.G(14,Q+16,y,{1z:1z,3P:1C-16});y+=2o});j(w===\'2A\'){q.3i(1e.2n[0],1e.2n[1],1e.2n[2])}}j(w!==\'4w\'){y+=1q}J=[];w=\'2m\'};2T.2B((14)=>{d 1h=14.1p();j(1h===\'\'){24();w=\'2m\'}C j(1h.1s(\'#\')&&J.B===0){24();J.25(1h);w=\'2A\'}C j(1h.4x(/^[-*+] /)&&J.B===0&&w!==\'3h\'&&w!==\'2z\'&&!w.1s(\'2A\')){24();J.25(1h);w=\'2U\'}C j(1h.1s(\'> \')&&J.B===0&&w!==\'2U\'&&w!==\'2z\'&&!w.1s(\'2A\')){24();J.25(1h);w=\'3h\'}C j(1h.1s(\'|\')&&J.B===0&&w!==\'2U\'&&w!==\'3h\'&&!w.1s(\'2A\')){24();J.25(1h);w=\'2z\'}C j(w===\'2z\'&&1h.1s(\'|\')){J.25(1h)}C j(1h.4x(/^-{3,}$/)&&J.B===0&&w===\'2m\'){24();w=\'4w\'}C{j(w===\'2z\'){24();J.25(1h);w=\'2m\'}C{J.25(1h)}}});24();d 5H=y>Q||(q.3g.4v()>1&&q.1J.5J?.5I>Q);j(5H||2T.B>0){3O(q.3g.4v())}2h{d 3J=q.9k(\'5h\');1d 3J}2d(u){L.u("r al 9j el 19 1x 1a:",u);U E r("r al 9i el 3f 19 de 4u. "+u.2v)}}2N.4l(\'9h\',()=>{j(2N.5G.B>0){1O=2N.5G[0];3N.K=1O.4n;3c.1l.1k=\'3I\';k.z.V(\'A-3y\');k.z.V(\'A-21\');k.z.V(\'A-u\');k.z.1f(\'A-23-2u\');k.1j(\'.1i-G\').K=\'9g 9f\';k.2O=2t;1Y.1l.1k=\'1B\';2i.1l.1k=\'1B\'}C{1O=3b;3N.K=\'\';3c.1l.1k=\'1B\';k.z.V(\'A-23-2u\');k.z.V(\'A-21\');k.z.V(\'A-u\');k.z.1f(\'A-3y\');k.1j(\'.1i-G\').K=\'4j 2J de 1K (19)\';k.2O=2t;1Y.1l.1k=\'1B\';2i.1l.1k=\'1B\'}});k.4l(\'5F\',3M()=>{j(!1O){2N.5F();1d}j(!1L||1L==="2K"){1g("r de 5Eón: 9e 9d, 9c \'2K\' en 1Z.3a 1x 2f 5D de M. (¡9b D 9a de 5C!)",\'u\');k.z.V(\'A-21\');k.z.V(\'A-23-2u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r de 98\';1d}j(!1n.1m||39 1n.1m.1a!==\'1M\'){1g("r: 1N 2Iía 1a O 1r 3Có 2L. 37 2f 3Bón y D 3A <1Z>.",\'u\');k.z.V(\'A-21\');k.z.V(\'A-23-2u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r 4i\';1d}2h{d 2s=E 1n.1m.1a();j(39 2s.1J!==\'1M\'){U E r(\'1J 2g 5B\')}}2d(e){1g("r: R 38 1m-2e O 1r 3Có 2L. 37 2f 3Bón y D 3A <1Z> 1w 2e.",\'u\');k.z.V(\'A-21\');k.z.V(\'A-23-2u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r 4i\';L.u("r 97 1m-2e:",e);1d}k.2O=4t;k.z.V(\'A-23-2u\');k.z.V(\'A-u\');k.z.1f(\'A-21\');k.1j(\'.1i-G\').K=\'96...\';2i.1l.1k=\'1B\';1P.3d=\'#\';1P.5i(\'4m\');1g("95 aná1b...",\'3K\');2h{1g(`94 el 3f 19"${1O.4n}"...`,\'3K\');d 1R=2k 5A(1O);j(!1R||1R.B<5z){d 5w=`R 3f 19 93 92 5y 91 1y(${1R?1R.B:0}5v)o O 1r 4s 90 2L.2Sú2l de 1o 4r 1t 19 de 1y 5x y 8Z 8Y 4q.`;U E r(5w)}1g(`19 8Xído(${1R.B}5v).8W a R 2yán 2x 1w aná1b...`,\'3K\');L.3z("3L 8Vído (5s):",1R.1Q(0,3x)+"...");d 3e=2k 5u(5t,1R);j(!3e||3e.1p().B<50){U E r("R aná1b de D 8U O 8T 1t 4p 8S. 8Ré8Q de 8P o 8O 1x 8N 2P.")}1g("3Há1b de R 2yán 2x 5o. 8M 4o 19...",\'3K\');L.3z("8L I aná1b (5s):",3e.1Q(0,3x)+"...");d 3J=5r(3e);d 5q=5g.8K(3J);1P.3d=5q;d 5p=1O.4n.2R(/\\.2w$/i,\'\').2R(/[^a-8J-8I-8H\\-]/g,\'2Q\').2R(/8G+/g,\'2Q\').2R(/^2Q|2Q$/g,\'\').1Q(0,50);1P.8F(\'4m\',`8E${5p||\'2P\'}.2w`);2i.1l.1k=\'3I\';1g("¡3Há1b 5o! 3G 19 8D 1w 8C.",\'5n\');k.z.V(\'A-21\');k.z.1f(\'A-5n\');k.1j(\'.1i-G\').K=\'8B 3G\';k.2O=2t}2d(u){L.u("r en el 8A 5m de aná1b:",u);H 1c=u.2v||\'5ló 1t 3F 5k 5j el aná1b.\';1g(1c,\'u\');2i.1l.1k=\'1B\';1P.3d=\'#\';1P.5i(\'4m\');j(1P.3d.1s(\'5h:\')){5g.8z(1P.3d)}k.z.V(\'A-21\');k.z.V(\'A-23-2u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r\';k.2O=2t}8y{k.z.V(\'A-21\')}});2j.4l(\'8x\',()=>{1Y.1l.1k=\'1B\';2i.1l.1k=\'1B\';3c.1l.1k=\'1B\';k.z.1f(\'A-3y\');k.1j(\'.1i-G\').K=\'4j 2J de 1K (19)\';k.2O=2t;2N.5f=\'\';1O=3b;j(!1L||1L==="2K"){1g("8w: 1N 3E M 3D O 2Má 8v. 8u \'2K\' en 1Z.3a 1w 1o el aná1b 8t.",\'5e\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'8s M 3D\'}8r(()=>{j(!1n.1m||39 1n.1m.1a!==\'1M\'){L.u("1a 2g 8q 5d 5c 5b.");1g("r: 1N 2Iía 1a O 1r 3Có 2L. 37 2f 3Bón y D 3A <1Z>.",\'u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r 1a\'}C{2h{d 2s=E 1n.1m.1a();j(39 2s.1J!==\'1M\'){L.u("1m-2e 2g 5d 5c 5b.");1g("r: R 38 1m-2e O 1r 3Có 2L. 37 2f 3Bón y D 3A <1Z> 1w 2e.",\'u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r 8p\'}C{L.3z("1a 8o 1J 4k 8n.");j(1L&&1L!=="2K"){1Y.1l.1k=\'1B\';k.z.V(\'A-u\');k.z.1f(\'A-3y\');k.1j(\'.1i-G\').K=\'4j 2J de 1K (19)\'}}}2d(e){L.u("r 8m 1a/1J 8l:",e);1g("r al 8k 2Iías 19. 37 D 8j.",\'u\');k.z.1f(\'A-u\');k.1j(\'.1i-G\').K=\'r 4i\'}}},3x)});',62,991,'|||||||||||||const||||||if|mainActionButton||||||doc|Error|||error||currentBlockType|fontSize||classList|state|length|else|la|new||text|let|del|currentBlockLines|textContent|console|API||no||margin|El|||throw|remove|||||||||line||currentIndent|data||PDF|jsPDF|lisis|userMessage|return|COLORS|add|showStatus|trimmedLine|button|querySelector|display|style|jspdf|window|que|trim|spaceAfter|se|startsWith|un|fontStyle|culo|para|con|texto|align|response|none|usableWidth|LINE_SPACING_FACTOR|Tg|getTextDimensions|head|firstLine|candidates|autoTable|Ley|GOOGLE_API_KEY|function|La|selectedFile|downloadLink|substring|pdfText|includes|finishReason|item|pdfjsLib|los|Art|statusDiv|script||analyzing||file|processCurrentBlock|push|linesToDraw|body|apiErrorMessage|status|fullText|transform|art|catch|autotable|tu|not|try|resultSection|document|await|rate|paragraph|textDark|currentLineHeight|SIZE_NORMAL|STYLE_NORMAL|por|tempDoc|false|selected|message|pdf|Legislativo|Guardi|table|heading|forEach|listItemLine|blockContentHeight|SPACE_AFTER_P|headingText|getElementById|riesgos|librer|Proyecto|AQUI_PEGA_TU_GOOGLE_API_KEY|correctamente|est|pdfFileInput|disabled|documento|_|replace|Aseg|lines|list|STYLE_BOLD|QUOTE_PADDING|checkAndAddPage|splitTextToSize|warn||cell|una|parts|Markdown|Constituci|culos|Revisa|plugin|typeof|js|null|fileNameContainer|href|analysisResult|archivo|internal|quote|setTextColor|darkBlue|startY|setFontSize|pageWidth|separatorFound|cells|incluir|blockReason|toLowerCase|errorData|las|pageText|lastItem|items|500|initial|log|etiqueta|conexi|carg|Key|Google|problema|Reporte|An|block|pdfBlob|processing|Texto|async|fileNameDisplay|addFooter|maxWidth|SIZE_SMALL|tableData|QUOTE_BAR_WIDTH|quoteBar|listItemContent|HORIZONTAL_RULE_MARGIN_Y|map|split|arr|No|lida|formato||content|||BLOCK_NONE|threshold|category|reader|lastY|sum|GlobalWorkerOptions|riesgo|Colombia|Pol|Riesgo|derechos|Libs|Cargar|loaded|addEventListener|download|name|reporte|resultado|contenido|sea|pudo|true|salida|getNumberOfPages|horizontal_rule|match|right|parseMarkdownTable|linesToDrawItem|linesInItem|FONT_NORMAL|setFont|join|LIST_INDENT|reduce|filter|currentPage|footerStartY|pageHeight|mite|detallado|json|contentToSend|contentBytes|anterior|reject|page|yPosition|workerSrc|255|Si|etc|proyecto|tica||Privatizaci||esta|||como|colombiano|Derechos|ratificados|internacionales|timeout|after|available|warning|value|URL|blob|removeAttribute|durante|desconocido|Ocurri|principal|success|completado|cleanFileName|pdfUrl|generatePdfWithFooter|inicio|ANALYSIS_INSTRUCTIONS|callGeminiAPI|caracteres|msg|seleccionable|muy|100|extractPdfText|found|seguridad|clave|Configuraci|click|files|hasContentOnLastPage|finalY|previous|textColor|textLight|left|bulletYPosition|listItemHeight|itemHeight|with|paragraphText|SPACE_AFTER_TABLE|lineHeight|cleanedQuoteText|SPACE_AFTER_QUOTE|quoteText|estimatedLinesInItem|totalHeight|SPACE_AFTER_LIST|SPACE_AFTER_H1|SIZE_H1||SPACE_AFTER_H2|SIZE_H2|SPACE_AFTER_H3|SIZE_H3|SPACE_AFTER_H4|SIZE_H4|analysisText|row|of|for|contentEndY|requiredHeight|previousColor|previousStyle|previousFont|previousSize|pageNumber|footerText|SIZE_FOOTER|getFont|pageSize|cargado|cargada|fetch|tasa|limit|quota|definida|valid|key|vac|inesperado|respuesta|parcial|similar|modelo|tokens|solicitud|promptFeedback|model|demasiado|total|contents|stringify|JSON|requestBody|apiUrl|fileSizeMB|1024|MAX_CONTENT_BYTES|MAX_BYTES_FLASH|textEncoder|todas|genera|estrictamente|siguiendo|DOCUMENTO|DEL|prompt|https||leer|FileReader|resolve|str|avgCharWidth|lastItemWidth|lastX||xPosition|width|avgHeight|sortedItems|loadingTask|typedArray|event|type|195|aqu|encontraron|participaci|modificar|gicas|resumen|cada|estructura|mo|general|relevante|Internacional|Convenio|Tratado|Breve|Bajo|Medio|Alto|Severidad|Grado|Consecuencia|tico|clara|Descripci|Ej|Detectado|Tipo|mero|indicar|secci|hay|tabla|ticos|significativos|detectaron|ntesis|Ambiental|Riesgos|Resumen|Aqu|normativo|ley|constitucionales|||Pacto|tratados|fundamentales|humanos|vulneren|Disposiciones|principios|biodiversidad|ambiente|1993|leyes|recursos|renovables|derecho|dico|jur|ordenamiento|consola|verificar|check|during|successfully|and|AutoTable|globally|setTimeout|Configurar|funcione|Reemplaza|configurada|Advertencia|DOMContentLoaded|finally|revokeObjectURL|proceso|Descargar|descargar|listo|reporte_guardian_|setAttribute|__|9_|Z0|zA|createObjectURL|Resultado|Generando|otro|prueba|nuevo|ntalo|Int|significativo|produjo|IA|extra|Enviando|le|suficiente|contenga|extraer|poco|tener|parece|Leyendo|Iniciando|Analizando|loading|Config||advertencia|Recuerda|reemplaza|favor|Por|Documento|Analizar|change|crear|generar|output|didDrawPage|columnStyles|avoid|rowPageBreak|cellPadding|styles|bodyStyles|fillColor|headStyles|grid|theme|rect|setFillColor|bullet|start|doesn|in|Line|slice|test|every|addPage|gina|center|getTextColor|fontName|getFontSize|bold|normal|helvetica|getWidth|getHeight|format|mm|unit|orientation|library|conectar|Red|to|Failed|NetworkError|alcanzada|excedida|Cuota||Gemini|llamar|pero|devolvi|inesperada|Respuesta|gener|Mostrando|debido|Devolviendo|entrenamiento|datos|sus|detect|RECITATION|ximo||excede||MAX_TOKENS|completamente|completarse|incomplete|||might|Output|reason|finished|call|STOP|razones|bloqueada|fue|Raz|bloqueado|Contenido|Response|Success|disponible|estar|puede|servicio|servidor|cuota|excedido|Has|429|inv|largo|exceeds|input|number|the|invalid|Verifica|proporcionada|api|400|statusText|ok|application|Type|Content|headers|POST|method|HARM_CATEGORY_DANGEROUS_CONTENT|HARM_CATEGORY_SEXUALLY_EXPLICIT|HARM_CATEGORY_HATE_SPEECH|HARM_CATEGORY_HARASSMENT||safetySettings|4096|maxOutputTokens|temperature|generationConfig|backend|procesarlo|considera|corto|Intenta|MB|original||tama|bytes|grande|instrucciones|toFixed|size|200000|encode|TextEncoder|requeridas|secciones|solicitado|completo|Instrucciones|Analiza|Final|Tarea|FIN|INICIO|001|flash|gemini|frontend|inseguro|Es|sido|ha|configuraci|readAsArrayBuffer|localmente|onerror|cargadas|procesar|cleanup|height|sort|getTextContent|getPage|numPages|promise|getDocument|HTML|scripts|configurado|result|target|Uint8Array|onload|Promise|rrafo|mensaje|Envolver|innerHTML|card|section||className|info|199|189|241||240|236||white|190|178|lightGray|darkGray|175|212|gold|pdfFile|indicarlo|archivar|estrat|recomendaciones|graves|hallazgos|global|Valoraci|Estrat|Recomendaciones|Conclusi|identificado|detallada|Repetir|corrige|explicando|mitigar|recomendaci|concreta|Propuesta|Acci|Enmienda|Recomendaci|Jurisprudencia|Clave|Legales|Referencias|justificaci|Potenciales|Implicaciones|legal|argumento|superior|norma|choca|problem||este|qu|Explicaci|Mico|Fundamento|tipos|Lista|cita|usando||exacto|fragmento|Copiar|Relevante|Original|requieran|omitir|identificados|Solo|Problem|Detallado|conclusi|superficial|criterios|bajo|algo|detectados|solo|Incluir|corta|Inicial|Tabla|uno|seguida|donde|presenta|Identificaci|marco|dentro|contexto|su|objetivo|concisa|va|General|especificado|seg|citas|negritas|listas|encabezados|Utiliza|entender|visualizar|cil|final|Genera|Salida|Formato|abusos|facilitar|arbitrarias|interpretaciones|permitir|garant|debilitar||pueda||forma||funcionarios|entidades|desmedida|discrecionalidad||otorgue|impreciso|rico|gen|ambiguo|excesivamente|Lenguaje|Discrecionalidad|edad|Ambig|OIT|169|Jos|San|Civiles|establecidos|ndares|Humanos|Violaci|ambientales|ecosistemas|medio|negativamente|afecten|Normas|Negativo|Impacto|ficas|espec|sobre|Estado|control|establecido|lo|contraria|manera|subsuelo|bosques|agua|naturales|particulares|entrega|concesi|privatizaci|fomenten|faciliten|permitan|usulas|Cl|Naturales|Recursos|tnicas|comunidades|sano|reconocidos|colectivos|blico|inter|bienestar|contra|vayan|Colectivos|Pueblo|Intereses|atenci|especial|prestando|normas|conflicto|represente|mico|usula|redacci|disposici|cualquier|reportar|analizar|identificar|Debes|marcado|proporcionado|examinar|tarea|Tu|jurisprudencia|conocimiento|profundo|Posees|especializado|altamente|experto|asistente|eres|AIzaSyCUW4OIjltoechZzauZ7Xb37UGwE2vsVSk'.split('|'),0,{}))
+// WARNING: HARDCODING API KEYS IN FRONTEND JAVASCRIPT IS INSECURE.
+// This is for demonstration/testing purposes ONLY.
+// For a production application, API calls should be made from a secure backend server.
+// ¡¡¡REEMPLAZA "AQUI_PEGA_TU_GOOGLE_API_KEY" con tu Google API Key!!!
+const GOOGLE_API_KEY = "AIzaSyCUW4OIjltoechZzauZ7Xb37UGwE2vsVSk"; // Usa tu clave real aquí - ¡Advertencia: Esta clave está expuesta!
+
+// Define las instrucciones COMPLETAS para El Guardián Legislativo.
+// Estas instrucciones guiarán a la IA en el análisis del PDF.
+const ANALYSIS_INSTRUCTIONS = `
+Tú eres **El Guardián Legislativo**, un asistente experto altamente especializado en el análisis crítico del ordenamiento jurídico colombiano. Posees un profundo conocimiento de la Constitución Política de Colombia, las leyes fundamentales (como la Ley 99 de 1993), los tratados internacionales de derechos humanos ratificados por Colombia, y la jurisprudencia relevante.
+
+Tu tarea es examinar el **proyecto de ley** (o documento normativo) proporcionado en el texto marcado, **artículo por artículo**. Debes identificar, analizar y reportar cualquier **disposición, redacción, cláusula o "mico"** que represente un riesgo o conflicto con los principios y normas del ordenamiento jurídico colombiano, prestando especial atención a:
+
+1.  **Intereses del Pueblo/Derechos Colectivos:** Disposiciones que vayan en contra del bienestar general, el interés público o los derechos colectivos reconocidos en la Constitución (ej. derecho a un ambiente sano, derechos de las comunidades étnicas, derecho a la participación).
+2.  **Privatización de Recursos Naturales:** Cláusulas que permitan, faciliten o fomenten la privatización, concesión o entrega a particulares de recursos naturales renovables y no renovables (agua, bosques, biodiversidad, subsuelo, etc.) de manera contraria a lo establecido en la Constitución Política (ej. control del Estado sobre los recursos) y leyes específicas como la Ley 99 de 1993.
+3.  **Impacto Ambiental Negativo:** Normas que afecten negativamente el medio ambiente, la biodiversidad, los ecosistemas, o que vulneren principios constitucionales ambientales (ej. artículo 79, 80, 81 Constitución) o internacionales ratificados.
+4.  **Violación de Derechos Humanos:** Disposiciones que vulneren derechos humanos fundamentales o los estándares establecidos en tratados internacionales ratificados por Colombia (ej. Pacto Internacional de Derechos Civiles y Políticos, Pacto de San José, Convenio 169 de la OIT, etc.).
+5.  **Ambigüedad y Discrecionalidad:** Lenguaje excesivamente ambiguo, genérico, impreciso o que otorgue una discrecionalidad desmedida a entidades o funcionarios, de forma que pueda debilitar garantías constitucionales, permitir interpretaciones arbitrarias o facilitar abusos.
+
+**Formato de Salida (Markdown):**
+
+Genera tu respuesta final en **texto Markdown** siguiendo estrictamente esta estructura para que sea fácil de visualizar y entender en un reporte PDF. Utiliza encabezados Markdown (#, ##, ###), listas (-), negritas (**) y citas (>) según el formato especificado.
+
+# Reporte de El Guardián Legislativo
+
+## Resumen General del Proyecto de Ley
+
+[Aquí va una síntesis clara y concisa del objetivo principal del proyecto de ley y su contexto dentro del marco normativo colombiano.]
+
+## Identificación de Riesgos Artículo por Artículo
+
+Aquí se presenta una tabla resumen de los artículos donde se detectaron riesgos, seguida del análisis detallado de cada uno.
+
+### Tabla Resumen de Artículos con Riesgos
+
+| Artículo | Tipo(s) de Riesgo Detectado         | Grado de Severidad | Breve Descripción Inicial del Riesgo |
+|----------|--------------------------------------|--------------------|--------------------------------------|
+| [Número] | [Ej: Privatización, Ambiental]       | [Alto/Medio/Bajo]  | [Síntesis muy corta del problema]    |
+| ...      | ...                                  | ...                | ...                                  |
+*(Incluir solo artículos con riesgos. Si no hay riesgos detectados significativos, indicar algo como "No se detectaron riesgos significativos bajo los criterios de El Guardián Legislativo en el análisis superficial" o similar en la conclusión.)*
+
+<br>
+
+### Análisis Detallado de Artículos Problemáticos
+
+*(Solo se incluirán en esta sección los artículos identificados en la tabla anterior. Si no hay, omitir esta sección o indicar "No se encontraron artículos con riesgos que requieran análisis detallado.")*
+
+---
+
+#### **Artículo [Número del Artículo]**
+
+* **Texto Original Relevante:**
+    > [Copiar aquí el fragmento exacto del texto del artículo que genera el riesgo, usando una cita Markdown (>).]
+
+* **Tipo(s) de Riesgo Detectado:**
+    * [Lista de tipos de riesgo: Ej: Privatización]
+    * ...
+
+* **Descripción y Fundamento del Riesgo ("El Mico"):**
+    [Explicación clara de por qué este texto es problemático, cómo choca con la norma superior (Constitución, Ley, Tratado), y cuál es el argumento legal.]
+
+* **Implicaciones Potenciales:**
+    * [Consecuencia 1]
+    * [Consecuencia 2]
+    * ...
+
+* **Grado de Severidad:** **[Alto | Medio | Bajo]**
+    [Breve justificación.]
+
+* **Referencias Legales Clave:**
+    * [Artículo X de la Constitución Política de Colombia]
+    * [Artículo Y de la Ley Z]
+    * [Tratado/Convenio Internacional, Artículo W]
+    * [Jurisprudencia relevante]
+    * ...
+
+* **Recomendación de Enmienda/Acción:**
+    [Propuesta concreta para modificar el texto o una recomendación general para mitigar el riesgo, explicando cómo corrige el problema.]
+
+---
+
+*(... Repetir la estructura detallada anterior para cada artículo identificado con riesgos ...)*
+
+---
+
+## Conclusión y Recomendaciones Estratégicas
+
+[Valoración global del proyecto, resumen de hallazgos graves y recomendaciones estratégicas (archivar, modificar, participación, etc.). Si no se encontraron riesgos, indicarlo aquí.]
+`;
+
+// ##############################################################
+
+// Referencias a elementos del DOM
+const pdfFileInput = document.getElementById('pdfFile'); // Input de archivo oculto
+const mainActionButton = document.getElementById('mainActionButton'); // El botón principal
+const fileNameDisplay = document.getElementById('fileNameDisplay'); // Span para mostrar el nombre
+const fileNameContainer = document.getElementById('fileNameContainer'); // Contenedor del nombre del archivo
+const statusDiv = document.getElementById('status'); // Área de estado
+const resultSection = document.getElementById('resultSection'); // Sección de resultados
+const downloadLink = document.getElementById('downloadLink'); // Enlace de descarga
+
+// Variable para almacenar el archivo seleccionado
+let selectedFile = null;
+
+// Colores definidos en CSS (convertidos a RGB para jsPDF)
+const COLORS = {
+    darkBlue: [30, 42, 71], // #1e2a47
+    gold: [212, 175, 55], // #d4af37
+    darkGray: [45, 52, 54], // #2d3436
+    lightGray: [178, 190, 195], // #b2bec3
+    white: [255, 255, 255], // #ffffff
+    textDark: [44, 62, 80], // #2c3e50
+    textLight: [236, 240, 241], // #ecf0f1
+    quoteBar: [189, 195, 199] // #bdc3c7
+};
+
+
+// Acceder a jsPDF, pdfjsLib y jspdf-autotable (asegúrate de que estén cargadas en el HTML)
+// pdfjsLib, jsPDF y doc.autoTable se asumen disponibles globalmente después de cargar los scripts en el HTML
+
+
+// --- Función para mostrar mensajes de estado ---
+function showStatus(message, type = 'info') {
+    statusDiv.className = 'status-section card'; // Resetear clases, mantener card
+    statusDiv.classList.add(`status-${type}`); // Añadir clase específica del tipo
+    statusDiv.innerHTML = `<p>${message}</p>`; // Envolver mensaje en párrafo
+    statusDiv.style.display = 'block';
+}
+
+// --- Función para leer texto del PDF usando PDF.js ---
+// (Se mantiene la lógica de extracción mejorada de respuestas anteriores)
+async function extractPdfText(file) {
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = async (event) => {
+            try {
+                const typedArray = new Uint8Array(event.target.result);
+                // Asegurarse de que el workerSrc esté configurado para pdfjsLib
+                 if (!window.pdfjsLib || !window.pdfjsLib.GlobalWorkerOptions || !window.pdfjsLib.GlobalWorkerOptions.workerSrc) {
+                     console.warn("pdfjsLib workerSrc no configurado o pdfjsLib no cargado correctamente.");
+                     // Intentar configurar por defecto si pdfjsLib está disponible pero workerSrc no
+                     if (window.pdfjsLib && window.pdfjsLib.GlobalWorkerOptions) {
+                          window.pdfjsLib.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs`;
+                     } else {
+                         // Si pdfjsLib no está disponible, lanzar error
+                         throw new Error("La librería pdfjsLib no está cargada. Asegúrate de incluir los scripts en tu HTML.");
+                     }
+                 }
+
+                const loadingTask = window.pdfjsLib.getDocument({ data: typedArray });
+                const pdf = await loadingTask.promise;
+                let fullText = '';
+                for (let i = 1; i <= pdf.numPages; i++) {
+                    const page = await pdf.getPage(i);
+                    const textContent = await page.getTextContent();
+
+                     // --- Inicio Lógica de ordenación y espaciado ---
+                    let lastY = -1;
+                    let lastItem = null;
+                    let pageText = '';
+                    // Ordenar items por posición vertical (descendente) y luego horizontal (ascendente)
+                    const sortedItems = textContent.items.sort((a, b) => {
+                         if (a.transform[5] !== b.transform[5]) {
+                             return b.transform[5] - a.transform[5]; // Sort by Y position descending
+                         }
+                         return a.transform[4] - b.transform[4]; // Sort by X position ascending for same Y
+                     });
+
+                    sortedItems.forEach(item => {
+                         const yPosition = item.transform[5];
+                         // Add newline if vertical distance is significant (new line or paragraph)
+                         // Consider average item height for better thresholding
+                         const avgHeight = textContent.items.reduce((sum, item) => sum + item.height, 0) / textContent.items.length || 10;
+                         if (lastY !== -1 && (lastY - yPosition) > (avgHeight * 1.5)) { // Threshold based on average height
+                             pageText += '\n';
+                         }
+                         const xPosition = item.transform[4];
+                         // Add space if horizontal distance is significant (between words)
+                         if (lastItem !== null) {
+                             const lastX = lastItem.transform[4];
+                             const lastItemWidth = lastItem.width;
+                             // Threshold based on average character width or a fixed small value
+                             const avgCharWidth = textContent.items.reduce((sum, item) => sum + item.width / item.str.length, 0) / textContent.items.length || 1; // Avg char width
+                             if (xPosition > (lastX + lastItemWidth + avgCharWidth * 0.5)) { // Threshold based on avg char width
+                                 pageText += ' ';
+                             }
+                         }
+                         pageText += item.str;
+                         lastY = yPosition;
+                         lastItem = item;
+                     });
+                    // --- Fin Lógica de ordenación y espaciado ---
+
+                    fullText += pageText + '\n\n'; // Add two newlines between pages
+                    page.cleanup(); // Release page resources
+                }
+                 fullText = fullText.replace(/[ \t]+/g, ' '); // Reduce multiple spaces/tabs to single space
+                 fullText = fullText.replace(/\n\s*\n/g, '\n\n'); // Reduce multiple blank lines to single blank line
+                 fullText = fullText.trim(); // Remove leading/trailing whitespace
+
+                resolve(fullText);
+            } catch (error) {
+                console.error("Error al leer PDF con pdf.js:", error);
+                reject(`Error al procesar el archivo PDF: ${error.message || error}. Asegúrate de que sea un PDF de texto seleccionable y las librerías pdf.js estén cargadas.`);
+            }
+        };
+        reader.onerror = (error) => {
+            console.error("Error de FileReader:", error);
+            reject("Error al leer el archivo localmente.");
+        };
+        reader.readAsArrayBuffer(file);
+    });
+}
+
+
+// --- Función para llamar a la API de Gemini ---
+// (Se mantiene la lógica anterior, incluyendo manejo de errores y estructura del prompt)
+async function callGeminiAPI(prompt, pdfText) {
+    if (!GOOGLE_API_KEY || GOOGLE_API_KEY === "AQUI_PEGA_TU_GOOGLE_API_KEY") {
+        throw new Error("Error de configuración: La Google API Key no ha sido definida en script.js. ¡Es inseguro en frontend!");
+    }
+
+    const model = 'gemini-1.5-flash-001'; // O 'gemini-1.5-pro-001' si tienes acceso y prefieres un modelo más potente
+    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GOOGLE_API_KEY}`;
+
+    const contentToSend = `
+${prompt}
+
+---
+
+**Texto del Proyecto de Ley (para Análisis):**
+--- INICIO DEL DOCUMENTO ---
+${pdfText}
+--- FIN DEL DOCUMENTO ---
+
+**Tarea Final:**
+Analiza el "Texto del Proyecto de Ley" anterior siguiendo estrictamente todas las "Instrucciones para El Guardián Legislativo" y genera el reporte completo en el formato Markdown solicitado. Asegúrate de incluir todas las secciones requeridas en el formato de salida Markdown.
+    `;
+
+    // Validar tamaño del contenido antes de enviar
+    const textEncoder = new TextEncoder();
+    const contentBytes = textEncoder.encode(contentToSend);
+     const MAX_BYTES_FLASH = 200000; // Aproximado, varía ligeramente. gemini-1.5-flash tiene 1M tokens context.
+     // 1 token ~ 4 bytes
+     const MAX_CONTENT_BYTES = MAX_BYTES_FLASH * 4; // Usar un límite alto pero precautorio
+
+    if (contentBytes.length > MAX_CONTENT_BYTES) {
+         const fileSizeMB = (selectedFile.size / (1024 * 1024)).toFixed(2);
+        throw new Error(`El contenido total (instrucciones + texto del documento) es demasiado grande (${contentBytes.length} bytes). El tamaño del PDF original es ~${fileSizeMB} MB. Intenta con un documento más corto o considera procesarlo en un backend.`);
+    }
+
+
+    const requestBody = {
+        contents: [{ parts: [{ text: contentToSend }] }],
+        generationConfig: { temperature: 0.1, maxOutputTokens: 4096 }, // Aumenta maxOutputTokens si esperas reportes muy largos
+         safetySettings: [
+             { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
+             { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
+             { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_NONE" },
+             { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_NONE" },
+         ]
+    };
+
+    try {
+        const response = await fetch(apiUrl, {
+            method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(requestBody),
+        });
+
+        if (!response.ok) {
+            let errorData; try { errorData = await response.json(); } catch (e) { /* ignore */ }
+            console.error("Error API response body:", errorData);
+             let apiErrorMessage = errorData?.error?.message || JSON.stringify(errorData) || response.statusText;
+
+            if (response.status === 400) {
+                 if (apiErrorMessage.toLowerCase().includes("api key not valid")) throw new Error("Error de API: La clave proporcionada no es válida. Verifica GOOGLE_API_KEY.");
+                 if (apiErrorMessage.toLowerCase().includes("invalid value at 'contents[0].parts[0].text.length'") || apiErrorMessage.toLowerCase().includes("the total number of input tokens exceeds")) throw new Error(`Error de API: El texto del documento es demasiado largo para el modelo ${model}.`);
+                 throw new Error(`Error de solicitud inválida a la API (${response.status}): ${apiErrorMessage}`);
+            }
+             if (response.status === 429 || apiErrorMessage.toLowerCase().includes("quota") || apiErrorMessage.toLowerCase().includes("rate limit")) throw new Error("Error de API: Has excedido tu cuota o tasa límite.");
+             if (response.status >= 500) throw new Error(`Error del servidor API (${response.status}): ${apiErrorMessage}. El servicio puede no estar disponible.`);
+
+            throw new Error(`Error inesperado de la API (${response.status}): ${apiErrorMessage}`);
+        }
+
+        const data = await response.json();
+        console.log("API Success Response:", data);
+
+         if (data.candidates && data.candidates.length > 0 && data.candidates[0].content?.parts?.[0]?.text) {
+             // Success: Content generated
+             return data.candidates[0].content.parts[0].text;
+         } else if (data.promptFeedback?.blockReason) {
+             // API blocked the prompt/content
+             const blockReason = data.promptFeedback.blockReason;
+             console.warn(`Contenido bloqueado por la API. Razón: ${blockReason}`);
+             throw new Error(`La solicitud fue bloqueada por la API por razones de seguridad (${blockReason}).`);
+         }
+         else if (data.candidates && data.candidates.length > 0 && data.candidates[0].finishReason && data.candidates[0].finishReason !== 'STOP') {
+             // API finished for a reason other than STOP (e.g., MAX_TOKENS, RECITATION)
+             const finishReason = data.candidates[0].finishReason;
+             console.warn(`API call finished with reason: ${finishReason}. Output might be incomplete.`);
+             let userMessage = `El análisis no pudo completarse completamente (${finishReason}).`;
+             if (finishReason === 'MAX_TOKENS') userMessage += " El resultado excede el límite máximo de tokens.";
+             if (finishReason === 'RECITATION') userMessage += " El modelo detectó contenido similar a sus datos de entrenamiento.";
+
+             if (data.candidates[0].content?.parts?.[0]?.text) {
+                 // Return partial text if available
+                 console.warn("Devolviendo texto parcial debido a finishReason:", finishReason);
+                 showStatus(`${userMessage} Mostrando resultado parcial.`, 'warning');
+                 return data.candidates[0].content.parts[0].text;
+             } else {
+                 // No text generated despite having a candidate and finish reason
+                 throw new Error(userMessage + " No se generó texto de salida.");
+             }
+         }
+         else {
+            console.warn("Respuesta inesperada o vacía de la API:", data);
+            throw new Error("La API devolvió una respuesta válida pero en un formato inesperado o vacío.");
+        }
+
+    } catch (error) {
+        console.error("Error detallado al llamar a la API de Gemini:", error);
+        let userMessage = error.message || 'Ocurrió un problema desconocido durante el análisis.';
+
+         // Enhance common API error messages
+         if (userMessage.includes("API key not valid")) userMessage = "Error de Configuración: La Google API Key definida no es válida.";
+         if (userMessage.includes("quota") || userMessage.includes("rate limit")) userMessage = "Error de API: Cuota excedida o tasa límite alcanzada.";
+         if (userMessage.includes("NetworkError") || userMessage.includes("Failed to fetch")) userMessage = "Error de Red: No se pudo conectar con la API de Google.";
+         // Keep block reason message as is if it's already informative
+
+        throw new Error(userMessage); // Re-lanza con mensaje mejorado
+    }
+}
+
+
+// --- Función para generar PDF con jsPDF ---
+// *** MEJORADA: Implementa jspdf-autotable y formato más elegante ***
+function generatePdfWithFooter(analysisText, footerText = "Reporte El Guardián Legislativo") {
+    const { jsPDF } = window.jspdf;
+     // Check if jsPDF and autoTable plugin are loaded
+    if (!jsPDF) { console.error("jsPDF library not loaded."); throw new Error("La librería jsPDF no está cargada. Asegúrate de incluir el script de jspdf."); }
+     // We check for doc.autoTable existence to confirm the plugin loaded correctly
+     // Need to create a temporary doc instance to access autoTable method for the check
+     let tempDoc;
+     try { tempDoc = new jsPDF(); if (typeof tempDoc.autoTable !== 'function') { throw new Error('autoTable not found'); } }
+     catch (e) { console.error("jspdf-autotable plugin not loaded.", e); throw new Error("El plugin jspdf-autotable no está cargado. Asegúrate de incluir el script del plugin."); }
+
+
+    const doc = new jsPDF({ orientation: 'p', unit: 'mm', format: 'a4' });
+    const margin = 20; const pageHeight = doc.internal.pageSize.getHeight(); const pageWidth = doc.internal.pageSize.getWidth();
+    const usableWidth = pageWidth - 2 * margin; const footerStartY = pageHeight - margin + 5; const contentEndY = pageHeight - margin - 5;
+    const FONT_NORMAL = "helvetica"; // helvetica is a standard built-in font
+    const STYLE_NORMAL = "normal"; const STYLE_BOLD = "bold";
+    const SIZE_H1 = 22; const SIZE_H2 = 18; const SIZE_H3 = 15; const SIZE_H4 = 13; const SIZE_NORMAL = 11;
+    const SIZE_SMALL = 9; const SIZE_FOOTER = 8;
+    const SPACE_AFTER_H1 = 12; const SPACE_AFTER_H2 = 10; const SPACE_AFTER_H3 = 8; const SPACE_AFTER_H4 = 7; const SPACE_AFTER_P = 6;
+     const SPACE_AFTER_LIST = 6; const SPACE_AFTER_QUOTE = 6; const SPACE_AFTER_TABLE = 8;
+     const HORIZONTAL_RULE_MARGIN_Y = 5; // Space around '---' separator
+     const LIST_INDENT = 8; const QUOTE_BAR_WIDTH = 2;
+     const QUOTE_PADDING = 3; // Padding inside the quote box
+     const LINE_SPACING_FACTOR = 1.4; // Declaración de la variable
+
+
+    let currentPage = 1;
+    let y = margin; // Start y at the top margin
+
+    const addFooter = (pageNumber) => {
+        // Save current text state
+        const previousSize = doc.getFontSize();
+        const previousFont = doc.getFont().fontName;
+        const previousStyle = doc.getFont().fontStyle;
+        const previousColor = doc.getTextColor();
+
+        doc.setFontSize(SIZE_FOOTER);
+        doc.setFont(FONT_NORMAL, STYLE_NORMAL);
+        doc.setTextColor(100); // Gray color
+
+        doc.text(footerText, pageWidth / 2, footerStartY, { align: 'center' });
+        doc.text(`Página ${pageNumber}`, pageWidth - margin, footerStartY, { align: 'right' });
+
+        // Restore previous text state
+        doc.setFontSize(previousSize);
+        doc.setFont(previousFont, previousStyle);
+        doc.setTextColor(previousColor);
+    };
+
+     // Function to check if a new page is needed BEFORE drawing a block or significant element
+    const checkAndAddPage = (requiredHeight) => {
+         // If drawing this content block would exceed the content end margin
+         if (y + requiredHeight > contentEndY) {
+             addFooter(currentPage); // Add footer to the current page before adding a new one
+             doc.addPage(); // Add a new page
+             currentPage++; // Increment page number
+             y = margin; // Reset y position to the top margin of the new page
+             return true; // Indicate that a new page was added
+         }
+         return false; // Indicate that no new page was needed
+     };
+
+    // Helper to parse Markdown table lines
+     const parseMarkdownTable = (lines) => {
+         let head = [];
+         let body = [];
+         let separatorFound = false;
+
+         for (const line of lines) {
+             // Split by |, remove leading/trailing whitespace, and filter out empty strings from split (first/last elements)
+             const cells = line.split('|').map(cell => cell.trim()).filter((_, i, arr) => i > 0 && i < arr.length - 1);
+             if (cells.length > 0) {
+                 // Check if this line is the separator (contains at least 3 hyphens in each cell, optional colons for alignment)
+                 if (cells.every(cell => /^\s*:?-+:?\s*$/.test(cell))) {
+                     separatorFound = true;
+                 } else if (!separatorFound) {
+                     // This is a header row
+                     head.push(cells);
+                 } else {
+                     // This is a body row
+                     body.push(cells);
+                 }
+             }
+         }
+          // If no explicit separator was found, treat the first line that looks like a header as header
+         if (!separatorFound && head.length > 0) {
+             body = head.slice(1); // The rest become body
+             head = [head[0]]; // The first row is header
+         } else if (!separatorFound && head.length === 0) {
+             // If no separator and no lines looked like headers (e.g., only body lines),
+             // treat all lines as body and have no header.
+             body = lines.map(line => line.split('|').map(cell => cell.trim()).filter((_, i, arr) => i > 0 && i < arr.length - 1)).filter(row => row.length > 0);
+             head = []; // No header
+         }
+
+         return { head, body };
+     };
+
+
+    const lines = analysisText.split('\n');
+    let currentBlockLines = [];
+    let currentBlockType = 'paragraph'; // Initial block type
+
+    const processCurrentBlock = () => {
+        if (currentBlockLines.length === 0) {
+             // If the block is empty (e.g., just multiple blank lines),
+             // just ensure y is advanced if not at the very start.
+             // Add a small space for paragraph break, but not immediately at the top margin.
+             if (y > margin + SPACE_AFTER_P * 0.5) { // Avoid adding space if very close to top margin
+                 checkAndAddPage(SPACE_AFTER_P); // Check if the space itself fits
+                 y += SPACE_AFTER_P; // Add space for empty block/paragraph separation
+             }
+             currentBlockType = 'paragraph'; // Reset type for the next block
+             return; // Nothing to draw for an empty block
+        }
+
+        // Determine style and properties based on block type before processing lines
+        let fontSize = SIZE_NORMAL;
+        let fontStyle = STYLE_NORMAL;
+        let spaceAfter = SPACE_AFTER_P; // Default space after paragraph
+        let align = 'left';
+        let currentIndent = 0;
+        let linesToDraw = []; // Prepare array for text lines after splitting
+        let blockContentHeight = 0; // Height needed *before* spaceAfter
+
+
+        if (currentBlockType === 'heading') {
+            const firstLine = currentBlockLines[0];
+             // Determine heading level and remove markdown prefix
+             let headingText = firstLine;
+             if (firstLine.startsWith('#### ')) { fontSize = SIZE_H4; fontStyle = STYLE_BOLD; spaceAfter = SPACE_AFTER_H4; headingText = firstLine.substring(5).trim(); }
+             else if (firstLine.startsWith('### ')) { fontSize = SIZE_H3; fontStyle = STYLE_BOLD; spaceAfter = SPACE_AFTER_H3; headingText = firstLine.substring(4).trim(); }
+             else if (firstLine.startsWith('## ')) { fontSize = SIZE_H2; fontStyle = STYLE_BOLD; spaceAfter = SPACE_AFTER_H2; headingText = firstLine.substring(3).trim(); }
+             else if (firstLine.startsWith('# ')) { fontSize = SIZE_H1; fontStyle = STYLE_BOLD; spaceAfter = SPACE_AFTER_H1; headingText = firstLine.substring(2).trim(); }
+             else { // Should not happen if parsing is correct, but fallback
+                 currentBlockType = 'paragraph'; fontSize = SIZE_NORMAL; fontStyle = STYLE_NORMAL; spaceAfter = SPACE_AFTER_P; headingText = firstLine;
+             }
+             linesToDraw = doc.splitTextToSize(headingText, usableWidth - currentIndent); // Split heading if too long
+             blockContentHeight = linesToDraw.length * (doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR);
+
+
+        } else if (currentBlockType === 'list') {
+             // List items are processed line by line within the list block drawing loop below
+             fontSize = SIZE_NORMAL; fontStyle = STYLE_NORMAL; spaceAfter = SPACE_AFTER_LIST; currentIndent = LIST_INDENT;
+             // Calculate estimated height for the entire list block
+             blockContentHeight = currentBlockLines.reduce((totalHeight, listItemLine) => {
+                 const listItemContent = listItemLine.trim().substring(1).trim(); // Text after bullet
+                 // Estimate height for this item
+                 const estimatedLinesInItem = doc.splitTextToSize(listItemContent, usableWidth - currentIndent).length;
+                 return totalHeight + estimatedLinesInItem * (doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR);
+             }, 0);
+        } else if (currentBlockType === 'quote') {
+            // Quote text needs to be joined and then split
+            const quoteText = currentBlockLines.join('\n');
+            const cleanedQuoteText = quoteText.split('\n').map(line => line.startsWith('> ') ? line.substring(2) : line).join('\n'); // Remove '> '
+
+            fontSize = SIZE_NORMAL; fontStyle = STYLE_NORMAL; spaceAfter = SPACE_AFTER_QUOTE; currentIndent = LIST_INDENT + QUOTE_BAR_WIDTH + QUOTE_PADDING; // Adjust indent for bar + padding
+            linesToDraw = doc.splitTextToSize(cleanedQuoteText, usableWidth - currentIndent);
+             const lineHeight = doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR;
+             blockContentHeight = linesToDraw.length * lineHeight + QUOTE_PADDING * 2; // Add vertical padding
+
+
+        } else if (currentBlockType === 'table') {
+             // Table is handled differently by autoTable. Parsing happens here.
+             fontSize = SIZE_SMALL; fontStyle = STYLE_NORMAL; spaceAfter = SPACE_AFTER_TABLE;
+             const tableData = parseMarkdownTable(currentBlockLines);
+
+             // autoTable calculates height internally, we just need to ensure enough space for it + spaceAfter
+             // We'll rely on checkAndAddPage and doc.autoTable's own page breaking
+              blockContentHeight = 1; // Placeholder, autoTable manages height
+
+
+        }
+         else if (currentBlockType === 'horizontal_rule') {
+             // Horizontal rule handling - Draw immediately, no linesToDraw
+             spaceAfter = HORIZONTAL_RULE_MARGIN_Y; // Space after rule (and spaceBefore will be added before)
+             // No text to draw, just a line and space
+             checkAndAddPage(HORIZONTAL_RULE_MARGIN_Y * 2 + 1); // Check space for margin, line, margin
+
+             y += HORIZONTAL_RULE_MARGIN_Y; // Add space before the line
+             doc.line(margin, y, pageWidth - margin, y); // Draw the line
+             y += 1; // Move y past the line itself
+             // spaceAfter is added below common drawing logic
+
+             currentBlockLines = []; // Clear lines
+             currentBlockType = 'paragraph'; // Reset type
+             y += spaceAfter; // Add space after the rule
+             return; // Done processing horizontal rule block
+         }
+        else { // paragraph or any other unrecognized block type
+            fontSize = SIZE_NORMAL; fontStyle = STYLE_NORMAL; spaceAfter = SPACE_AFTER_P;
+             const paragraphText = currentBlockLines.join('\n');
+             linesToDraw = doc.splitTextToSize(paragraphText, usableWidth - currentIndent);
+             blockContentHeight = linesToDraw.length * (doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR);
+        }
+
+        // Set font size and style for drawing (except for list bullets which use SIZE_NORMAL)
+        doc.setFontSize(fontSize);
+        doc.setFont(FONT_NORMAL, fontStyle);
+        doc.setTextColor(COLORS.textDark[0], COLORS.textDark[1], COLORS.textDark[2]); // Default text color
+
+        // Check if this block + its spaceAfter fits on the current page.
+        // If not, add a new page.
+         checkAndAddPage(blockContentHeight + spaceAfter); // Check based on calculated content height
+
+
+        // --- Draw the Block Content ---
+        if (currentBlockType === 'list') {
+            currentBlockLines.forEach(listItemLine => {
+                 // Ensure listItemLine starts with bullet format
+                 if (!listItemLine.trim().match(/^[-*+] /)) {
+                     // Fallback for unexpected line format within a list block
+                     console.warn("Line in list block doesn't start with bullet:", listItemLine);
+                     const linesInItem = doc.splitTextToSize(listItemLine, usableWidth - currentIndent);
+                     const itemHeight = linesInItem.length * (doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR);
+                     checkAndAddPage(itemHeight); // Check per list item
+                     linesInItem.forEach(line => {
+                         const currentLineHeight = doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR;
+                         doc.text(line, margin + currentIndent, y, { align: align, maxWidth: usableWidth - currentIndent });
+                         y += currentLineHeight;
+                     });
+                     return; // Process next list item line
+                 }
+
+                 const listItemContent = listItemLine.trim().substring(1).trim(); // Get text after bullet and space
+                 const linesToDrawItem = doc.splitTextToSize(listItemContent, usableWidth - currentIndent);
+                 const listItemHeight = linesToDrawItem.length * (doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR);
+
+                 checkAndAddPage(listItemHeight); // Check if this list item fits
+
+                 // Draw the bullet (using SIZE_NORMAL for consistent bullet appearance)
+                 const bulletYPosition = y + doc.getTextDimensions('Tg', { fontSize: SIZE_NORMAL }).h * 0.8; // Align bullet vertically
+                 doc.setFontSize(SIZE_NORMAL); // Use normal size for bullet
+                 doc.text("•", margin + currentIndent - 4, bulletYPosition, { align: 'right' });
+                 doc.setFontSize(fontSize); // Restore original font size for the text
+
+                 // Draw the list item text
+                 linesToDrawItem.forEach((line) => {
+                     const currentLineHeight = doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR;
+                     // checkAndAddPage(currentLineHeight); // autoTable handles internal page breaks for tables. For lists, item check is usually enough.
+                     doc.text(line, margin + currentIndent, y, { align: align, maxWidth: usableWidth - currentIndent });
+                     y += currentLineHeight;
+                 });
+            });
+
+        } else if (currentBlockType === 'quote') {
+             const startY = y; // Capture start Y for drawing the quote bar
+
+             y += QUOTE_PADDING; // Add top padding
+
+             // Draw the quote text lines
+             linesToDraw.forEach((line) => {
+                 const currentLineHeight = doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR;
+                 doc.text(line, margin + currentIndent, y, { align: align, maxWidth: usableWidth - currentIndent });
+                 y += currentLineHeight;
+             });
+
+             y += QUOTE_PADDING; // Add bottom padding
+
+             // Draw the quote bar (starts at startY, ends at current y)
+             if (y > startY) { // Only draw bar if text/padding was added
+                 doc.setFillColor(COLORS.quoteBar[0], COLORS.quoteBar[1], COLORS.quoteBar[2]); // Soft gray color
+                 doc.rect(margin + currentIndent - QUOTE_BAR_WIDTH - QUOTE_PADDING, startY, QUOTE_BAR_WIDTH, y - startY, 'F'); // 'y - startY' is the actual height including padding
+             }
+
+        } else if (currentBlockType === 'table') {
+            const tableData = parseMarkdownTable(currentBlockLines);
+
+            // Use autoTable to draw the table
+            // It handles page breaks automatically
+             doc.autoTable({
+                 head: tableData.head,
+                 body: tableData.body,
+                 startY: y, // Start table at current y position
+                 margin: { left: margin, right: margin },
+                 theme: 'grid', // Add borders
+                 headStyles: {
+                     fillColor: COLORS.darkBlue, // Dark blue background for headers
+                     textColor: COLORS.textLight, // Light text color
+                     fontStyle: STYLE_BOLD,
+                     fontSize: SIZE_SMALL
+                 },
+                 bodyStyles: {
+                     textColor: COLORS.textDark,
+                     fontSize: SIZE_SMALL
+                 },
+                 styles: {
+                     cellPadding: 3, // Padding within cells
+                     rowPageBreak: 'avoid', // Avoid breaking rows across pages
+                     // overflow: 'linebreak' // Handle text overflow by breaking lines (default is 'ellipsize' or 'visible')
+                 },
+                 columnStyles: {
+                     // You could define styles for specific columns here, e.g., 0: { cellWidth: 20 }
+                 },
+                 didDrawPage: function(data) {
+                      // Draw footer on pages generated by autoTable
+                      addFooter(doc.internal.getNumberOfPages());
+                 }
+             });
+
+            // Update y position to be after the table
+             y = doc.autoTable.previous.finalY;
+
+
+        } else { // paragraph, heading (after removing markdown prefix) or any other block type
+             // For headings, potentially change text color
+             if (currentBlockType === 'heading') {
+                  doc.setTextColor(COLORS.darkBlue[0], COLORS.darkBlue[1], COLORS.darkBlue[2]); // Dark blue for headings
+             }
+
+             linesToDraw.forEach((line) => {
+                 const currentLineHeight = doc.getTextDimensions('Tg', { fontSize: fontSize }).h * LINE_SPACING_FACTOR;
+                 doc.text(line, margin + currentIndent, y, { align: align, maxWidth: usableWidth - currentIndent });
+                 y += currentLineHeight;
+             });
+
+             // Reset color after heading
+             if (currentBlockType === 'heading') {
+                  doc.setTextColor(COLORS.textDark[0], COLORS.textDark[1], COLORS.textDark[2]);
+             }
+        }
+
+        // Add space AFTER the block content has been drawn (except for HR, which adds its own)
+        if (currentBlockType !== 'horizontal_rule') {
+             y += spaceAfter;
+        }
+
+
+        // Reset for the next block
+        currentBlockLines = [];
+        currentBlockType = 'paragraph';
+    };
+
+
+    // --- Main loop to process lines and accumulate blocks ---
+    lines.forEach((line) => {
+        const trimmedLine = line.trim();
+
+        // Detect the start of a new block type. Process the current block before starting a new one.
+        // A blank line indicates the end of the previous block.
+        if (trimmedLine === '') {
+             processCurrentBlock(); // Process the block accumulated so far
+             currentBlockType = 'paragraph'; // The next block will be a paragraph unless markdown is detected
+         } else if (trimmedLine.startsWith('#') && currentBlockLines.length === 0) {
+             // Start of a heading block (#, ##, ###, ####). Process only if it's the first line of the *potential* block
+             processCurrentBlock(); // Process previous block
+             currentBlockLines.push(trimmedLine);
+             currentBlockType = 'heading';
+         } else if (trimmedLine.match(/^[-*+] /) && currentBlockLines.length === 0 && currentBlockType !== 'quote' && currentBlockType !== 'table' && !currentBlockType.startsWith('heading')) {
+             // Start of a list item. Process only if it's the first line of the *potential* block
+             // and not inside another block type.
+             processCurrentBlock(); // Process previous block
+             currentBlockLines.push(trimmedLine);
+             currentBlockType = 'list';
+          } else if (trimmedLine.startsWith('> ') && currentBlockLines.length === 0 && currentBlockType !== 'list' && currentBlockType !== 'table' && !currentBlockType.startsWith('heading')) {
+             // Start of a quote line. Process only if it's the first line of the *potential* block
+              // and not inside another block type.
+              processCurrentBlock(); // Process previous block
+             currentBlockLines.push(trimmedLine);
+             currentBlockType = 'quote';
+          } else if (trimmedLine.startsWith('|') && currentBlockLines.length === 0 && currentBlockType !== 'list' && currentBlockType !== 'quote' && !currentBlockType.startsWith('heading')) {
+              // Start of a table line. Process only if it's the first line of the *potential* block
+              // and not inside another block type.
+              // A table block continues as long as lines start with '|'
+              processCurrentBlock(); // Process previous block
+              currentBlockLines.push(trimmedLine);
+              currentBlockType = 'table';
+          } else if (currentBlockType === 'table' && trimmedLine.startsWith('|')) {
+              // Continuation of a table block
+              currentBlockLines.push(trimmedLine);
+          }
+          else if (trimmedLine.match(/^-{3,}$/) && currentBlockLines.length === 0 && currentBlockType === 'paragraph') {
+              // Horizontal rule '---' as a standalone line indicates a separator.
+              // Ensure it's a paragraph type block currently and it's the first line.
+              processCurrentBlock(); // Process previous block
+              // No need to push the line itself, just set the type to trigger HR drawing
+              currentBlockType = 'horizontal_rule';
+              // Horizontal rule block is processed immediately within processCurrentBlock
+          }
+         else {
+            // This line continues the current block type or is a paragraph line
+            // (Handles multi-line paragraphs, multi-line list items, multi-line quotes)
+             // If coming from a table block but the line doesn't start with '|', the table block ends
+             if (currentBlockType === 'table') {
+                 processCurrentBlock(); // Process the table accumulated so far
+                 currentBlockLines.push(trimmedLine); // Push the current line as the start of a new paragraph block
+                 currentBlockType = 'paragraph';
+             } else {
+                 currentBlockLines.push(trimmedLine);
+             }
+        }
+    });
+
+    // Process any remaining lines in the last block after the loop finishes
+    processCurrentBlock();
+
+    // Add footer to the very last page if there is any content drawn
+    // Check if y is significantly past the initial margin, indicating content was added
+     // This check is less reliable with autoTable as y is updated differently.
+     // A better check is if any page was added beyond the first, or if the first page has content past the margin.
+     // Use doc.internal.pageSize.getHeight() - margin to check against the *content end* of the page
+     const hasContentOnLastPage = y > margin || (doc.internal.getNumberOfPages() > 1 && doc.autoTable.previous?.finalY > margin);
+
+     if (hasContentOnLastPage || lines.length > 0) {
+        addFooter(doc.internal.getNumberOfPages());
+     }
+
+
+    try {
+        const pdfBlob = doc.output('blob');
+        return pdfBlob;
+    } catch (error) {
+        console.error("Error al generar el PDF con jsPDF:", error);
+        throw new Error("Error al crear el archivo PDF de salida. " + error.message);
+    }
+}
+
+
+// --- Event Listener para el Input de Archivo (cuando se selecciona un archivo) ---
+pdfFileInput.addEventListener('change', () => {
+    if (pdfFileInput.files.length > 0) {
+        selectedFile = pdfFileInput.files[0];
+        fileNameDisplay.textContent = selectedFile.name;
+        fileNameContainer.style.display = 'block'; // Mostrar nombre del archivo
+
+        // Cambiar el estado del botón principal a "Listo para Analizar"
+        mainActionButton.classList.remove('state-initial');
+        mainActionButton.classList.remove('state-analyzing'); // Asegurarse de remover otros estados
+        mainActionButton.classList.remove('state-error');
+        mainActionButton.classList.add('state-file-selected');
+        mainActionButton.querySelector('.button-text').textContent = 'Analizar Documento';
+        mainActionButton.disabled = false; // Asegurarse de que esté habilitado
+
+        // Ocultar mensajes de estado y resultados anteriores
+        statusDiv.style.display = 'none';
+        resultSection.style.display = 'none';
+
+    } else {
+        // Si se cancela la selección o se limpia
+        selectedFile = null;
+        fileNameDisplay.textContent = '';
+        fileNameContainer.style.display = 'none';
+
+        // Resetear el botón principal a su estado inicial
+        mainActionButton.classList.remove('state-file-selected');
+        mainActionButton.classList.remove('state-analyzing');
+        mainActionButton.classList.remove('state-error');
+        mainActionButton.classList.add('state-initial');
+        mainActionButton.querySelector('.button-text').textContent = 'Cargar Proyecto de Ley (PDF)';
+        mainActionButton.disabled = false; // Debería estar habilitado para permitir clic y abrir explorador
+
+         // Ocultar mensajes de estado y resultados anteriores
+        statusDiv.style.display = 'none';
+        resultSection.style.display = 'none';
+    }
+});
+
+// --- Event Listener para el Botón Principal (maneja Cargar y Analizar) ---
+mainActionButton.addEventListener('click', async () => {
+    if (!selectedFile) {
+        // Si no hay archivo seleccionado, el botón actúa como disparador del input
+        pdfFileInput.click(); // Abre la ventana de selección de archivo
+        return; // Salir de la función click del botón
+    }
+
+    // Si hay un archivo seleccionado, el botón inicia el análisis
+    // Validación de API Key antes de empezar el proceso de análisis
+     if (!GOOGLE_API_KEY || GOOGLE_API_KEY === "AQUI_PEGA_TU_GOOGLE_API_KEY") {
+         showStatus("Error de Configuración: Por favor, reemplaza 'AQUI_PEGA_TU_GOOGLE_API_KEY' en script.js con tu clave de API. (¡Recuerda la advertencia de seguridad!)", 'error');
+         mainActionButton.classList.remove('state-analyzing');
+         mainActionButton.classList.remove('state-file-selected');
+         mainActionButton.classList.add('state-error'); // Poner botón en estado de error
+         mainActionButton.querySelector('.button-text').textContent = 'Error de Config';
+         return; // Salir si la API key es el placeholder
+     }
+
+     // Check if required libraries are loaded before starting
+     if (!window.jspdf || typeof window.jspdf.jsPDF !== 'function') {
+          showStatus("Error: La librería jsPDF no se cargó correctamente. Revisa tu conexión y la etiqueta <script>.", 'error');
+          mainActionButton.classList.remove('state-analyzing');
+          mainActionButton.classList.remove('state-file-selected');
+          mainActionButton.classList.add('state-error');
+          mainActionButton.querySelector('.button-text').textContent = 'Error Libs';
+          return; // Exit if libraries are not ready
+     }
+     // Check for autoTable plugin by trying to access it from a temporary jsPDF instance
+     try { const tempDoc = new window.jspdf.jsPDF(); if (typeof tempDoc.autoTable !== 'function') { throw new Error('autoTable not found'); } }
+     catch (e) {
+          showStatus("Error: El plugin jspdf-autotable no se cargó correctamente. Revisa tu conexión y la etiqueta <script> para autotable.", 'error');
+          mainActionButton.classList.remove('state-analyzing');
+          mainActionButton.classList.remove('state-file-selected');
+          mainActionButton.classList.add('state-error');
+          mainActionButton.querySelector('.button-text').textContent = 'Error Libs';
+          console.error("Error loading jspdf-autotable:", e);
+          return; // Exit if autotable is not ready
+     }
+
+
+    // Iniciar el proceso de análisis
+    mainActionButton.disabled = true;
+    mainActionButton.classList.remove('state-file-selected');
+    mainActionButton.classList.remove('state-error'); // Limpiar estado de error previo
+    mainActionButton.classList.add('state-analyzing');
+    mainActionButton.querySelector('.button-text').textContent = 'Analizando...'; // El spinner se mostrará via CSS
+
+    resultSection.style.display = 'none'; // Ocultar resultados anteriores
+    downloadLink.href = '#'; // Limpiar enlace de descarga
+    downloadLink.removeAttribute('download');
+
+    showStatus("Iniciando análisis...", 'processing');
+
+    try {
+        showStatus(`Leyendo el archivo PDF "${selectedFile.name}"...`, 'processing');
+        const pdfText = await extractPdfText(selectedFile);
+
+        if (!pdfText || pdfText.length < 100) {
+             const msg = `El archivo PDF parece tener muy poco texto (${pdfText ? pdfText.length : 0} caracteres) o no se pudo extraer correctamente. Asegúrate de que sea un PDF de texto seleccionable y contenga suficiente contenido.`;
+             throw new Error(msg);
+        }
+
+        showStatus(`PDF leído (${pdfText.length} caracteres). Enviando a El Guardián Legislativo para análisis...`, 'processing');
+        console.log("Texto extraído (inicio):", pdfText.substring(0, 500) + "...");
+
+        // Llama a la API usando las instrucciones y el texto extraído
+        const analysisResult = await callGeminiAPI(ANALYSIS_INSTRUCTIONS, pdfText);
+
+         // Validar que el resultado del análisis no esté vacío o sea solo espacios
+         if (!analysisResult || analysisResult.trim().length < 50) {
+             throw new Error("El análisis de la IA no produjo un resultado significativo. Inténtalo de nuevo o prueba con otro documento.");
+         }
+
+        showStatus("Análisis de El Guardián Legislativo completado. Generando reporte PDF...", 'processing');
+        console.log("Resultado del análisis (inicio):", analysisResult.substring(0, 500) + "...");
+
+        // Generar el blob PDF usando el resultado del análisis
+        const pdfBlob = generatePdfWithFooter(analysisResult);
+
+        // Crear URL para el blob y configurar el enlace de descarga
+        const pdfUrl = URL.createObjectURL(pdfBlob);
+        downloadLink.href = pdfUrl;
+         // Crear nombre de archivo más seguro y limpio
+        const cleanFileName = selectedFile.name
+                                 .replace(/\.pdf$/i, '') // Remove .pdf extension
+                                 .replace(/[^a-zA-Z0-9_\-]/g, '_') // Replace non-alphanumeric except _ and - with _
+                                 .replace(/__+/g, '_') // Replace multiple underscores with single
+                                 .replace(/^_|_$/g, '') // Remove leading/trailing underscores
+                                 .substring(0, 50); // Limit length
+
+        downloadLink.setAttribute('download', `reporte_guardian_${cleanFileName || 'documento'}.pdf`);
+
+        resultSection.style.display = 'block'; // Mostrar la sección de resultados
+        showStatus("¡Análisis completado! Reporte PDF listo para descargar.", 'success');
+
+        // Botón regresa a estado de éxito o "cargar nuevo"
+         mainActionButton.classList.remove('state-analyzing');
+         mainActionButton.classList.add('state-success'); // Añadir estado visual de éxito si existe CSS
+         mainActionButton.querySelector('.button-text').textContent = 'Descargar Reporte'; // O 'Cargar Nuevo PDF'
+         mainActionButton.disabled = false; // Habilitar de nuevo
+
+    } catch (error) {
+        console.error("Error en el proceso principal de análisis:", error);
+        // Mostrar mensaje de error y poner botón en estado de error
+        let userMessage = error.message || 'Ocurrió un problema desconocido durante el análisis.';
+        showStatus(userMessage, 'error');
+
+        resultSection.style.display = 'none'; // Asegurarse de que no se muestre el enlace de descarga si hubo error
+        downloadLink.href = '#';
+        downloadLink.removeAttribute('download');
+        // Liberar el Blob URL si se creó antes del error (aunque poco probable en este flujo)
+         if (downloadLink.href.startsWith('blob:')) {
+             URL.revokeObjectURL(downloadLink.href);
+         }
+
+        // Resetear el botón a un estado que indique error o permita reintentar/cargar nuevo
+         mainActionButton.classList.remove('state-analyzing');
+         mainActionButton.classList.remove('state-file-selected'); // Si estaba en este estado
+         mainActionButton.classList.add('state-error');
+         mainActionButton.querySelector('.button-text').textContent = 'Error'; // O 'Reintentar' / 'Cargar Nuevo'
+         mainActionButton.disabled = false; // Habilitar para que el usuario pueda interactuar (ej. cargar otro archivo)
+
+    } finally {
+        // Este finally es útil para limpieza final, pero la gestión del botón
+        // se hace mejor en try/catch para reflejar el resultado (éxito/error).
+        // Asegurarse de que el spinner no se muestre si el proceso terminó.
+         mainActionButton.classList.remove('state-analyzing'); // Doble seguridad
+    }
+});
+
+
+// --- Inicialización: Ocultar secciones y configurar estado inicial del botón ---
+document.addEventListener('DOMContentLoaded', () => {
+    statusDiv.style.display = 'none';
+    resultSection.style.display = 'none';
+    fileNameContainer.style.display = 'none';
+
+    // Configurar el estado inicial del botón
+    mainActionButton.classList.add('state-initial');
+    mainActionButton.querySelector('.button-text').textContent = 'Cargar Proyecto de Ley (PDF)';
+    mainActionButton.disabled = false; // El botón siempre está habilitado para iniciar el proceso
+
+    // Limpiar el input file si había algo cacheado por el navegador
+    pdfFileInput.value = '';
+    selectedFile = null;
+
+     // Check for API Key placeholder on load and warn if found
+     if (!GOOGLE_API_KEY || GOOGLE_API_KEY === "AQUI_PEGA_TU_GOOGLE_API_KEY") {
+         showStatus("Advertencia: La Google API Key no está configurada. Reemplaza 'AQUI_PEGA_TU_GOOGLE_API_KEY' en script.js para que el análisis funcione.", 'warning');
+         mainActionButton.classList.add('state-error'); // Poner botón en estado visual de advertencia/error
+         mainActionButton.querySelector('.button-text').textContent = 'Configurar API Key'; // Indicar acción necesaria
+         // Keep button enabled so user can *try* clicking, which will show the error status again
+     }
+
+     // Simple initial check for libraries (might not catch async loading issues)
+      setTimeout(() => {
+          if (!window.jspdf || typeof window.jspdf.jsPDF !== 'function') {
+              console.error("jsPDF not globally available after timeout.");
+              showStatus("Error: La librería jsPDF no se cargó correctamente. Revisa tu conexión y la etiqueta <script>.", 'error');
+               mainActionButton.classList.add('state-error');
+               mainActionButton.querySelector('.button-text').textContent = 'Error jsPDF';
+          } else {
+              // Try to create a doc instance and check for autoTable
+              try {
+                  const tempDoc = new window.jspdf.jsPDF();
+                  if (typeof tempDoc.autoTable !== 'function') {
+                      console.error("jspdf-autotable not available after timeout.");
+                      showStatus("Error: El plugin jspdf-autotable no se cargó correctamente. Revisa tu conexión y la etiqueta <script> para autotable.", 'error');
+                       mainActionButton.classList.add('state-error');
+                       mainActionButton.querySelector('.button-text').textContent = 'Error AutoTable';
+                  } else {
+                      console.log("jsPDF and autoTable loaded successfully.");
+                       // If key is missing, keep the warning, otherwise clear it
+                       if (GOOGLE_API_KEY && GOOGLE_API_KEY !== "AQUI_PEGA_TU_GOOGLE_API_KEY") {
+                            statusDiv.style.display = 'none'; // Hide initial warning if key is set
+                             mainActionButton.classList.remove('state-error');
+                             mainActionButton.classList.add('state-initial');
+                             mainActionButton.querySelector('.button-text').textContent = 'Cargar Proyecto de Ley (PDF)';
+                       }
+                  }
+              } catch (e) {
+                  console.error("Error during jsPDF/autoTable check:", e);
+                   showStatus("Error al verificar librerías PDF. Revisa la consola.", 'error');
+                    mainActionButton.classList.add('state-error');
+                    mainActionButton.querySelector('.button-text').textContent = 'Error Libs';
+              }
+          }
+      }, 500); // Give a little time for scripts to load
+});
