@@ -2,7 +2,7 @@
 // This is for demonstration/testing purposes ONLY.
 // For a production application, API calls should be made from a secure backend server.
 // ¡¡¡REEMPLAZA "AQUI_PEGA_TU_GOOGLE_API_KEY" con tu Google API Key!!!
-const GOOGLE_API_KEY = "AIzaSyD1ryU86tlCjSiSTJR783dTvN-PLYDLtOM";
+const GOOGLE_API_KEY = "AIzaSyD9qvvjlNbUhvNtYr6Wq44bHv8UkbavBTY";
 
 // Define las instrucciones COMPLETAS para LegisGuardAI, basadas en el prompt mejorado.
 // Estas instrucciones guiarán a la IA en el análisis del PDF.
