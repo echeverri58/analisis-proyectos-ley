@@ -1,228 +1,161 @@
-/* Variables para colores */
+/* Paleta de colores profesional y seria */
 :root {
-    --color-primary: #0056b3; /* Azul oscuro para títulos y elementos principales */
-    --color-secondary: #28a745; /* Verde para elementos de acción/éxito */
-    --color-highlight: #17a2b8; /* Cian/Turquesa para resaltar */
-    --color-text-dark: #343a40; /* Gris oscuro para texto principal */
-    --color-text-medium: #5a6268; /* Gris medio para texto secundario */
-    --color-background: #e9ecef; /* Gris claro para fondo */
-    --color-surface: #ffffff; /* Blanco para tarjetas/contenido */
-    --color-border: #dee2e6; /* Gris muy claro para bordes */
-    --color-status-info: #cce5ff; /* Azul claro */
-    --color-status-processing: #fff3cd; /* Amarillo claro */
-    --color-status-success: #d4edda; /* Verde claro */
-    --color-status-error: #f8d7da; /* Rojo claro */
+    --color-dark-blue: #1e2a47; /* Azul oscuro - Confianza, Gobierno */
+    --color-gold: #d4af37; /* Dorado - Resalta detalles importantes */
+    --color-dark-gray: #2d3436; /* Gris oscuro - Seriedad */
+    --color-light-gray: #b2bec3; /* Gris claro - Contraste suave */
+    --color-white: #ffffff; /* Blanco - Para claridad */
+    --color-danger: #e74c3c; /* Rojo - Advertencias */
+    --color-success: #2ecc71; /* Verde - Éxito */
+    --color-info: #3498db; /* Azul - Información */
+    --color-background: #f4f6f7; /* Fondo suave */
+    --color-background-dark: #34495e; /* Fondo oscuro */
+    --color-text-dark: #2c3e50; /* Texto oscuro */
+    --color-text-light: #ecf0f1; /* Texto blanco */
 }
 
-
 body {
-    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    line-height: 1.7; /* Aumentado ligeramente para mejor legibilidad */
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 20px;
     background-color: var(--color-background);
     color: var(--color-text-dark);
-    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 .container {
-    max-width: 900px; /* Ancho máximo un poco mayor */
-    margin: 20px auto;
-    padding: 30px;
-    /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); */ /* Sombra más suave */
-    border-radius: 12px; /* Bordes más redondeados */
-    background-color: var(--color-background); /* Fondo del contenedor general */
+    max-width: 960px;
+    width: 100%;
+    background-color: var(--color-white);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
 }
-
-.card {
-    background-color: var(--color-surface);
-    padding: 25px;
-    margin-bottom: 25px;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Sombra para tarjetas */
-    border: 1px solid var(--color-border);
-}
-
 
 header {
+    background-color: var(--color-dark-blue);
+    color: var(--color-text-light);
     text-align: center;
-    margin-bottom: 40px;
-    border-bottom: 3px solid var(--color-primary);
-    padding-bottom: 20px;
-    background-color: var(--color-surface); /* Fondo para el header */
-    border-radius: 8px 8px 0 0; /* Bordes superiores redondeados */
-    padding-top: 20px;
+    padding: 30px 0;
+    border-radius: 10px 10px 0 0;
 }
 
 header h1 {
-    color: var(--color-primary);
-    margin: 0 0 5px 0;
-    font-size: 2.5em; /* Título más grande */
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
     font-weight: 700;
 }
 
-.highlight {
-    color: var(--color-secondary); /* Color verde para resaltar */
+header p {
+    font-size: 1.1rem;
+    font-weight: 400;
 }
 
-header p {
-    color: var(--color-text-medium);
-    font-size: 1.2em;
-    margin: 0;
+.card {
+    background-color: var(--color-white);
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: var(--color-primary);
-    font-size: 1.8em;
-    margin-top: 0; /* Eliminar margen superior en la tarjeta */
+    font-size: 1.8rem;
+    color: var(--color-dark-blue);
+    border-bottom: 2px solid var(--color-light-gray);
+    padding-bottom: 10px;
     margin-bottom: 15px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid var(--color-border);
 }
 
-h3 { /* Para subtítulos dentro de las tarjetas */
-    color: var(--color-text-dark);
-    font-size: 1.3em;
-    margin-top: 15px;
-    margin-bottom: 10px;
+h3 {
+    font-size: 1.5rem;
+    color: var(--color-dark-gray);
 }
 
-.intro-section ul,
-.how-to-read-section ul {
-    list-style: disc;
-    margin-left: 20px;
-    padding-left: 0;
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
 }
 
-.intro-section li,
-.how-to-read-section li {
-    margin-bottom: 8px;
-}
-
-/* Estilo mejorado para el input de archivo */
-.file-input-wrapper {
-    border: 1px solid var(--color-border);
-    border-radius: 5px;
-    padding: 10px 15px;
-    background-color: var(--color-background);
-    cursor: pointer;
-    display: flex; /* Permite alinear el texto y el input */
-    align-items: center;
-    margin-bottom: 15px;
-    transition: border-color 0.3s ease;
-}
-
-.file-input-wrapper:hover {
-     border-color: var(--color-primary);
-}
-
-.file-input-wrapper input[type="file"] {
-    display: none; /* Oculta el input original */
-}
-
-.file-input-wrapper #file-name {
-    flex-grow: 1; /* Permite que el texto ocupe el espacio restante */
-    color: var(--color-text-medium);
-    font-style: italic;
-}
-
-/* Estilo del botón */
-button {
-    display: block; /* Botón ocupa todo el ancho disponible */
-    width: 100%;
-    background-color: var(--color-secondary);
-    color: white;
-    padding: 12px 20px;
+button.action-button {
+    background-color: var(--color-gold);
     border: none;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    color: var(--color-text-light);
     border-radius: 5px;
     cursor: pointer;
-    font-size: 1.1em;
-    font-weight: 600;
-    transition: background-color 0.3s ease, opacity 0.3s ease;
-}
-
-button:hover:not(:disabled) {
-    background-color: #218838; /* Verde oscuro al pasar el mouse */
-}
-
-button:disabled {
-    background-color: #cccccc;
-    cursor: not-allowed;
-    opacity: 0.7;
-}
-
-/* Estilos de estado */
-.status-section {
-    padding: 15px;
-    margin-bottom: 25px;
-    border-radius: 5px;
-    font-weight: bold;
-    border: 1px solid transparent; /* Borde por defecto transparente */
-}
-
-.status-info {
-    background-color: var(--color-status-info);
-    color: #004085; /* Azul oscuro para texto */
-    border-color: #b8daff; /* Borde azul */
-}
-
-.status-processing {
-    background-color: var(--color-status-processing);
-    color: #856404; /* Amarillo oscuro para texto */
-    border-color: #ffeeba; /* Borde amarillo */
-}
-
-.status-success {
-    background-color: var(--color-status-success);
-    color: #155724; /* Verde oscuro para texto */
-    border-color: #c3e6cb; /* Borde verde */
-}
-
-.status-error {
-    background-color: var(--color-status-error);
-    color: #721c24; /* Rojo oscuro para texto */
-    border-color: #f5c6cb; /* Borde rojo */
-}
-
-
-/* Estilo de la sección de resultados */
-.result-section p {
-    margin-bottom: 15px;
-}
-
-.download-button { /* Estilo específico para el enlace de descarga */
-    display: inline-block;
-    margin-top: 10px;
-    background-color: var(--color-primary);
-    color: white;
-    padding: 12px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: 600;
     transition: background-color 0.3s ease;
 }
 
-.download-button:hover {
-    background-color: #004085; /* Azul más oscuro al pasar el mouse */
+button.action-button:hover {
+    background-color: #b28f26;
 }
 
+button.action-button:disabled {
+    background-color: var(--color-light-gray);
+    cursor: not-allowed;
+}
 
 footer {
+    background-color: var(--color-dark-blue);
+    color: var(--color-text-light);
     text-align: center;
-    margin-top: 40px;
-    font-size: 0.9em;
-    color: var(--color-text-medium);
-    border-top: 1px solid var(--color-border);
-    padding-top: 20px;
+    padding: 25px;
+    margin-top: 30px;
+    border-radius: 0 0 10px 10px;
 }
 
 footer p {
     margin: 5px 0;
+    font-size: 1rem;
+    font-weight: 400;
 }
 
-/* Estilo específico para la advertencia de seguridad en el footer */
-footer p:last-child {
+footer .security-warning {
+    color: var(--color-danger);
+    font-weight: 600;
+}
+
+.download-button {
+    display: inline-block;
+    background-color: var(--color-dark-blue);
+    color: var(--color-text-light);
+    padding: 12px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.download-button:hover {
+    background-color: #1c2d3a;
+}
+
+/* Estilos de estado */
+.status-section {
     font-weight: bold;
-    color: #dc3545; /* Rojo para la advertencia */
-    margin-top: 15px;
+    padding: 15px;
+    border-left: 5px solid;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    background-color: var(--color-white);
+}
+
+.status-info {
+    border-color: var(--color-info);
+    background-color: #ecf9ff;
+}
+
+.status-success {
+    border-color: var(--color-success);
+    background-color: #e9f7e6;
+}
+
+.status-error {
+    border-color: var(--color-danger);
+    background-color: #fde7e7;
 }
