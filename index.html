@@ -3,83 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Guardían Legislativo - Análisis de Proyectos de Ley</title>
+    <title>El Guardián Legislativo - Análisis de Proyectos de Ley</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs" type="module"></script>
-    <script type="module">
-        import { getDocument, GlobalWorkerOptions } from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs';
-        window.pdfjsLib = { getDocument, GlobalWorkerOptions };
-        window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs';
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1><span class="highlight">LegisGuardAI</span></h1>
-            <p>Tu Asistente Inteligente para el Análisis de Proyectos de Ley Colombianos</p>
+            <h1><span class="highlight">El Guardián</span> Legislativo</h1>
+            <p>Análisis Inteligente de Proyectos de Ley en Colombia</p>
         </header>
 
         <section class="intro-section card">
-            <h2>¿Qué es LegisGuardAI?</h2>
-            <p>LegisGuardAI es una herramienta basada en inteligencia artificial diseñada para examinar proyectos de ley y otros documentos normativos en Colombia.</p>
-            <p>Su misión es actuar como un **guardián legislativo**, identificando y reportando automáticamente disposiciones que puedan representar riesgos para:</p>
+            <h2>¿Qué hace El Guardián Legislativo?</h2>
+            <p>Este asistente basado en inteligencia artificial examina documentos normativos para identificar posibles **riesgos** o **"micos"** que puedan afectar el ordenamiento jurídico colombiano y los intereses ciudadanos.</p>
+            <p>Se enfoca en detectar disposiciones contrarias a:</p>
             <ul>
-                <li>Los intereses del pueblo y los derechos colectivos.</li>
-                <li>La protección de los recursos naturales y el medio ambiente.</li>
-                <li>Los derechos humanos y estándares internacionales.</li>
-                <li>La claridad y constitucionalidad del lenguaje normativo (evitando ambigüedades o "micos").</li>
+                <li>Intereses públicos, derechos colectivos y humanos.</li>
+                <li>Protección de recursos naturales y medio ambiente.</li>
+                <li>Principios constitucionales y tratados internacionales.</li>
+                <li>Claridad y precisión del lenguaje legal.</li>
             </ul>
-            <p>Carga un documento PDF y El Guardían LegislativoEl Guardían Legislativo te proporcionará un análisis detallado artículo por artículo.</p>
+            <p>Sube un archivo PDF de un proyecto de ley para empezar el análisis.</p>
         </section>
 
-        <section class="upload-section card">
-            <h2>1. Carga el Proyecto de Ley (PDF)</h2>
-            <div class="file-input-wrapper">
-                 <input type="file" id="pdfFile" accept=".pdf">
-                 <span id="file-name">Ningún archivo seleccionado</span>
-            </div>
-            <button id="analyzeButton">Analizar Documento</button>
+        <section class="upload-analyze-section card">
+             <h2>Paso 1: Cargar y Analizar Documento</h2>
+            <input type="file" id="pdfFile" accept=".pdf" style="display: none;">
+            <button id="mainActionButton" class="action-button state-initial">
+                 <span class="button-text">Cargar Proyecto de Ley (PDF)</span>
+                 <span class="loading-spinner"></span> 
+            </button>
+             <div id="fileNameContainer" class="file-name-container" style="display: none;">
+                  Archivo seleccionado: <span id="fileNameDisplay"></span>
+             </div>
         </section>
 
-        <section id="status" class="status-section card" style="display: none;">
-            </section>
+        <section id="status" class="status-section card" style="display: none;"></section>
 
-         <section class="how-to-read-section card">
-             <h2>¿Cómo Interpretar el Reporte PDF Generado?</h2>
-             <p>El reporte PDF está estructurado para facilitar la comprensión del análisis:</p>
+        <section class="how-to-read-section card">
+             <h2>Paso 2: Interpretar el Reporte PDF</h2>
+             <p>Una vez completado el análisis, descarga el reporte PDF para ver los hallazgos. Está organizado así:</p>
              <ul>
-                 <li>**Resumen General:** Una síntesis del propósito del proyecto de ley.</li>
-                 <li>**Tabla Resumen de Riesgos:** Una vista rápida de los artículos con problemas, indicando el tipo de riesgo y su severidad (Alto, Medio, Bajo).</li>
-                 <li>**Análisis Detallado por Artículo:** Para cada artículo identificado con riesgos, encontrarás:
-                     <ul>
-                         <li>El fragmento de texto original problemático.</li>
-                         <li>La descripción del "mico" y por qué representa un riesgo legal o constitucional.</li>
-                         <li>Las posibles implicaciones negativas.</li>
-                         <li>El grado de severidad del riesgo.</li>
-                         <li>Las referencias específicas a artículos de la Constitución, leyes o tratados que sustentan el análisis.</li>
-                         <li>Una recomendación para enmendar o abordar el problema.</li>
-                     </ul>
-                 </li>
-                 <li>**Conclusión:** Una valoración final y recomendaciones estratégicas generales.</li>
+                 <li>**Resumen General:** Propósito y contexto del documento.</li>
+                 <li>**Tabla Resumen de Riesgos:** Artículos con problemas, tipo y severidad (Alto, Medio, Bajo).</li>
+                 <li>**Análisis Detallado por Artículo:** Fragmento de texto, descripción del riesgo ("mico"), implicaciones, severidad, referencias legales clave y recomendaciones de enmienda.</li>
+                 <li>**Conclusión:** Valoración final y sugerencias estratégicas.</li>
              </ul>
-             <p>El reporte utiliza formato de texto claro (Markdown) para facilitar la lectura.</p>
+             <p>El formato Markdown facilita la lectura del análisis detallado.</p>
          </section>
 
-
         <section id="resultSection" class="result-section card" style="display: none;">
-            <h2>2. Resultado del Análisis</h2>
+            <h2>Paso 3: Descargar Reporte</h2>
             <p>El análisis está completo. Descarga el reporte detallado en formato PDF:</p>
-            <a id="downloadLink" href="#" download="analisis_legisguardai.pdf" class="download-button">Descargar Reporte PDF</a>
+            <a id="downloadLink" href="#" download="analisis_guardian_legislativo.pdf" class="download-button">
+                 Descargar Reporte PDF
+            </a>
         </section>
 
-
         <footer>
-            
+            <p>Creado por John Alexander Echeverry Ocampo</p>
             <p>Nota: Esta es una herramienta de apoyo. El análisis legal definitivo debe ser realizado por profesionales del derecho.</p>
+            
         </footer>
     </div>
-
     <script src="script.js"></script>
 </body>
 </html>
