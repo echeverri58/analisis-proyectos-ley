@@ -6,6 +6,23 @@
     <title>El Guardián Legislativo - Análisis de Proyectos de Ley</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+
+    <!-- *** INICIO: SCRIPTS NECESARIOS PARA PROCESAMIENTO DE PDF (DEBEN CARGARSE ANTES QUE TU SCRIPT) *** -->
+    <!-- pdfjsLib para leer el PDF de entrada -->
+    <!-- Utiliza type="module" para las versiones .mjs -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs" type="module"></script>
+    <!-- pdfjsLib Worker - necesario para la extracción asíncrona -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs" type="module"></script>
+
+    <!-- jsPDF para generar el PDF de salida -->
+    <!-- Esta versión UMD (Universal Module Definition) debería estar disponible globalmente -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <!-- jspdf-autotable plugin para generar tablas elegantes -->
+    <!-- Este plugin se adhiere al objeto jspdf global -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+    <!-- *** FIN: SCRIPTS NECESARIOS *** -->
+
 </head>
 <body>
     <div class="container">
@@ -32,7 +49,7 @@
             <input type="file" id="pdfFile" accept=".pdf" style="display: none;">
             <button id="mainActionButton" class="action-button state-initial">
                  <span class="button-text">Cargar Proyecto de Ley (PDF)</span>
-                 <span class="loading-spinner"></span> 
+                 <span class="loading-spinner"></span>
             </button>
              <div id="fileNameContainer" class="file-name-container" style="display: none;">
                   Archivo seleccionado: <span id="fileNameDisplay"></span>
@@ -64,9 +81,12 @@
         <footer>
             <p>Creado por John Alexander Echeverry Ocampo</p>
             <p>Nota: Esta es una herramienta de apoyo. El análisis legal definitivo debe ser realizado por profesionales del derecho.</p>
-            
+
         </footer>
     </div>
+
+    <!-- Tu script principal DEBE ir DESPUÉS de las librerías que utiliza -->
     <script src="script.js"></script>
+
 </body>
 </html>
